@@ -1,0 +1,2943 @@
+@prefix ecrm: <http://erlangen-crm.org/current/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://culturecloud.ru/image/1000.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1001.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1002.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1003.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1004.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1005.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1024.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1026.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1030.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1034.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1056.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1057.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1058.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1065.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1066.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1067.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1068.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1070.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1071.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1072.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1073.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1074.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1075.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1076.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1077.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1078.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1079.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1080.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1081.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1082.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1083.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1084.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1085.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1086.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1087.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1088.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1089.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1090.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1091.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1092.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1093.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1094.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1095.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1096.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1097.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1098.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1099.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1100.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1101.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1102.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1103.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1104.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1105.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1106.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1107.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1108.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1109.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1110.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1111.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1112.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1113.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1114.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1115.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1116.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1117.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1118.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1119.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1140.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1141.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1142.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1144.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1145.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1209.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/122.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1238.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/124.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1243.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1244.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1245.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1246.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1247.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1248.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1249.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/125.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1250.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1251.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1252.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/126.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1269.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1272.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1273.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1274.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1275.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1276.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1277.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/137.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1377.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/138.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/139.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/140.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1401.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1402.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1403.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1405.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1406.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1407.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1408.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1409.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/141.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1410.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1417.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1418.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1419.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/142.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1420.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1421.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1422.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1423.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/143.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1434.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/144.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1440.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1441.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1442.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1443.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1444.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1445.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1446.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1447.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1448.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1449.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/145.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1453.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1454.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1455.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1456.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/146.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/147.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1470.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1471.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1472.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1473.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1474.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1475.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1476.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1477.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1478.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1479.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/148.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1480.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1481.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1482.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1483.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1484.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1485.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1486.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1487.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1488.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1489.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/149.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1490.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/150.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1503.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1507.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1508.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1509.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/151.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1510.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1511.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1512.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1513.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1514.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1515.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1518.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1519.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1520.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1522.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1523.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1524.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1525.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1526.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1527.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1579.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1580.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/160.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/161.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/162.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/163.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/164.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/165.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1653.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1654.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1657.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/166.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1664.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1668.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/167.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1673.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1676.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1677.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1678.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1679.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/168.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1680.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1681.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1682.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1683.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1684.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1686.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1689.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/169.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1690.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1692.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1693.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1698.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/170.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1701.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1704.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1707.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/171.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1710.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1712.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1714.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1717.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1719.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1720.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1721.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1722.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1734.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1735.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1743.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1745.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/175.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/177.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/178.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/180.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/181.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1811.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1812.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1813.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1814.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1815.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1816.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1818.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/182.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/183.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/184.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1846.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/185.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/186.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/187.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/188.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1883.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1884.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1885.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1888.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/189.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1895.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1897.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1900.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1909.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1911.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1912.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1926.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1954.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1955.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1956.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1957.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1958.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1959.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1960.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1962.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1975.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1980.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1982.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1992.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1993.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/1994.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2014.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2015.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2016.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2017.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2018.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/203.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2032.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2034.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2035.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2036.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2038.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2039.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2053.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2055.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2058.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2072.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2075.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2108.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2110.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2112.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2137.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2138.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2139.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2140.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2164.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2172.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2174.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2176.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2177.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2178.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2181.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2183.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2184.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2187.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2189.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2190.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2191.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2192.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2194.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2197.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2199.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2200.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2201.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2203.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2206.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2209.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2212.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2214.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2216.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2217.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2218.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2224.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2225.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2227.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2229.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2230.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2231.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2232.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2235.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2236.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2237.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2238.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2239.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2281.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2283.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2284.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2315.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2316.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2317.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2318.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2319.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2320.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2321.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2322.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2323.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2326.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2327.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2328.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2329.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2330.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2331.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2332.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2334.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2368.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2369.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2370.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2371.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2372.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2374.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2375.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2376.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2377.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2378.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2379.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2380.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2381.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2389.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2390.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2391.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2393.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2394.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2397.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2400.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2415.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2417.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2421.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2424.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2426.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2429.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2430.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2431.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2437.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2438.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2440.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2441.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2443.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2445.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2446.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2448.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2449.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2459.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2460.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2461.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2462.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2463.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2464.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2465.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2466.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2467.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2468.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2470.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2472.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2474.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2475.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2476.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2479.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2482.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2484.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2485.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2492.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2494.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2495.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2496.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2497.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2498.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2499.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2500.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2501.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2502.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2503.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2506.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2507.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2509.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2511.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2513.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2514.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2516.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2519.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2522.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2524.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2526.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2529.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2531.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2533.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2535.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2538.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2540.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2541.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2542.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2543.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2544.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2545.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2546.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2547.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2548.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2549.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2550.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2551.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2552.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2553.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2555.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2557.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2559.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2564.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2566.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2567.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2568.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2570.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2685.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2688.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2689.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2705.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2706.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2707.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2708.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2709.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2710.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2711.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2712.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2716.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2774.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2776.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2794.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2795.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2799.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2801.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2802.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2815.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2847.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2848.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2849.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2850.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2851.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2852.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2853.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2854.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2878.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2927.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2928.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2940.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2948.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2949.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/2950.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3053.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3391.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3392.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3395.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3403.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3404.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3409.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3410.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3413.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3414.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3417.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3418.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3420.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3421.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3422.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3424.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3425.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3427.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3428.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3429.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3430.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3432.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3433.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3434.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3436.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3438.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3440.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3445.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3446.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3449.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3450.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3451.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3453.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3454.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3456.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3457.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3464.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3466.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3467.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3469.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3473.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3474.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3476.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3477.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3479.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3480.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3481.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3483.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3484.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3485.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3486.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3489.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3542.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3543.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3544.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3602.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3646.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3647.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3648.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3650.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3653.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3654.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3655.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3658.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3661.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3663.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3665.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3680.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3691.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3692.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3702.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3706.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3707.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3708.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3709.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3717.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3719.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3720.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3721.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3722.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3731.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3734.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3735.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3737.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3741.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3743.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3748.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3749.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3751.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3752.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3755.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3756.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3783.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3785.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3787.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3856.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3862.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3863.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3864.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3890.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/3895.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4007.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4008.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4009.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4018.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4021.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4025.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4031.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4035.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4038.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4042.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4044.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4047.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4048.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4049.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4050.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4051.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4054.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4055.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4056.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4057.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4058.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4059.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4064.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4065.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4068.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4069.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4070.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4071.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4072.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4073.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4074.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4077.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4078.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4079.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4082.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4085.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4086.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4087.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4089.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4090.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4091.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4092.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4093.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4094.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4102.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4103.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4104.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4105.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4108.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4109.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4113.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4114.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4119.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4121.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4122.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4123.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4127.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4129.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4130.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4131.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4132.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4135.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4136.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4150.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4153.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4156.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4157.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4158.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4161.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4162.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4165.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4166.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4167.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4168.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4171.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4174.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4175.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4178.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4179.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4180.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4181.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4183.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4370.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4394.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4396.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4397.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4398.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4399.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4400.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4402.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4403.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4405.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4406.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4408.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4413.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4417.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4418.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4420.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4421.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4516.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4517.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4520.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4522.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4525.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4526.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4527.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4528.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4529.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4530.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4533.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4535.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4536.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4543.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4544.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4548.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4701.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4704.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4705.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4707.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4709.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4710.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4714.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4715.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4716.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4717.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4721.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4724.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4727.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4732.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4733.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4743.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4745.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4750.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4762.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4780.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4783.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4786.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4787.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4789.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4792.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/4795.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/555.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/556.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/557.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/558.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/559.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/560.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/561.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/562.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/563.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/564.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/565.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/566.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/567.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/568.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/569.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/570.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/571.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/572.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/573.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/574.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/575.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/577.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/578.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/579.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/580.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/581.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/582.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/583.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/584.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/585.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/586.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/587.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/614.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/615.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/616.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/617.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/618.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/619.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/620.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/621.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/622.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/623.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/624.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/625.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/626.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/627.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/628.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/629.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/630.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/631.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/632.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/633.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/638.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/639.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/640.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/641.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/642.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/643.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/644.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/646.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/647.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/648.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/649.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/650.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/651.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/652.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/653.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/654.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/655.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/656.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/657.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/658.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/659.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/660.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/661.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/662.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/663.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/664.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/665.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/666.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/667.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/668.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/669.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/670.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/671.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/672.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/673.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/674.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/675.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/676.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/677.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/678.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/679.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/680.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/681.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/682.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/683.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/684.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/685.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/686.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/687.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/688.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/689.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/690.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/691.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/692.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/693.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/694.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/695.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/697.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/698.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/700.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/701.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/702.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/703.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/754.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/755.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/756.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/757.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/760.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/761.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/762.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/763.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/764.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/765.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/766.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/767.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/768.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/769.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/770.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/771.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/774.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/775.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/776.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/779.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/780.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/781.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/782.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/783.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/784.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/786.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/787.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/788.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/789.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/790.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/791.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/792.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/793.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/794.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/795.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/796.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/797.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/798.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/799.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/801.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/802.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/803.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/804.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/805.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/806.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/807.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/809.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/810.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/811.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/816.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/817.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/818.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/819.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/820.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/821.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/822.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/823.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/825.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/826.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/828.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/829.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/830.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/831.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/832.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/833.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/834.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/835.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/836.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/844.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/848.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/849.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/851.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/852.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/854.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/855.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/860.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/861.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/863.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/865.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/867.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/871.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/873.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/878.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/879.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/937.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/938.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/939.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/940.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/941.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/942.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/944.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/945.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/946.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/947.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/948.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/949.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/950.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/951.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/952.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/953.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/954.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/955.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/956.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/957.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/958.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/959.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/960.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/961.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/988.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/991.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/992.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/993.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/994.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/995.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/996.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/997.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://culturecloud.ru/image/999.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .

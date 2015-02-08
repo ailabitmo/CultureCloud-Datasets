@@ -1,0 +1,1844 @@
+
+<http://culturecloud.ru/resource/object/1000> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1001> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1002> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1003> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1026> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1030> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1034> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1056> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1057> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1058> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1065> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1066> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1067> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1068> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1070> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1072> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1073> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1075> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1076> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1077> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1078> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1079> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1080> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1082> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1083> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1084> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1085> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1086> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1087> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1088> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1089> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1091> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1092> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/1095> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1096> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1097> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1098> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1100> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1102> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1105> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1106> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/1107> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1108> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1110> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12469> .
+
+<http://culturecloud.ru/resource/object/1111> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1112> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1113> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1114> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1115> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1116> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1117> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1118> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1119> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1140> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1141> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1142> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1144> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1145> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1209> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/122> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1238> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/124> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1243> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1244> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1245> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1246> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1247> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1248> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1249> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/125> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1250> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1251> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1252> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/126> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1269> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1272> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1273> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1275> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1276> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1277> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/137> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/138> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/139> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/140> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1401> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1402> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1403> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1405> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1406> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1407> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1408> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1409> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/141> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1410> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1417> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/1418> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1419> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/142> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1420> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1421> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1422> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1423> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/143> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1434> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/144> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/1441> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1442> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1443> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1444> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1445> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1446> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1447> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1448> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1449> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/145> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1453> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1454> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1455> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1456> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/146> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/147> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1470> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1471> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1472> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1473> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1474> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1475> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/1476> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1477> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1478> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1479> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/148> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1480> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1481> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1482> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1484> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/1485> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/1486> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/1487> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/1488> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/1489> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1490> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/150> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1503> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1507> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1508> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1509> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/151> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1510> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1511> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1512> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1513> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1514> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1518> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1519> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1520> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1522> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1523> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1524> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1525> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1526> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1579> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/1580> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/160> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/161> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/162> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/163> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/164> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/165> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/1653> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1654> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1657> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/166> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1664> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/1668> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/167> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1673> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1676> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1677> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1678> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1679> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/168> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1680> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1681> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1682> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1683> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1684> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1686> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1689> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/169> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1690> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1692> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1693> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1698> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/170> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1701> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1704> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1707> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/171> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/1710> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1712> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1714> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1717> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1719> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1720> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1721> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1722> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1734> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1735> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1743> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1745> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/175> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/177> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/178> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/181> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1811> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1812> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1813> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1814> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1815> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1816> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/1818> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/183> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/184> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1846> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/186> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/187> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/188> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/1883> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1884> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1885> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1888> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/189> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/1895> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1897> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1898> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1900> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1903> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1909> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1911> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1912> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1926> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1954> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1955> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1956> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1957> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1958> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1959> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1960> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1962> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1975> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1980> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1982> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/1992> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1993> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/1994> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/2014> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2015> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2016> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2017> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2018> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/203> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2032> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2034> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2035> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2036> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2038> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/2039> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/2053> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2055> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2058> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2072> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2075> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2108> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2110> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2112> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2137> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2138> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2139> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2140> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2164> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2172> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2174> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2177> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2178> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2181> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2183> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2184> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2187> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2189> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2190> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2191> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2192> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2194> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2197> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2199> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2200> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2201> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2203> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2206> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2209> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2212> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2214> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2216> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2217> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2218> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2224> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2225> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2227> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2229> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2230> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2231> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2232> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2235> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2236> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/2237> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2238> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/2239> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/2281> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2283> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2284> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2315> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2316> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/2317> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2318> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/2319> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2320> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/2321> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2322> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2323> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2326> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2327> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2328> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2330> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2331> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2332> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2334> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2368> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2370> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2371> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2372> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2375> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2376> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/2377> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2378> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2379> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2381> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2389> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2390> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2391> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2393> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2394> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2397> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/2400> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2417> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2421> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2424> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2426> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2429> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2430> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2431> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2437> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2438> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2440> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2441> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2443> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2445> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2446> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/2448> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2449> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2459> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/2460> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2461> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2462> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2463> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2464> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2465> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2466> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2467> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2468> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/2470> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2472> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/2474> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2475> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2476> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2479> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2482> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2484> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2485> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2492> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/caricature> .
+
+<http://culturecloud.ru/resource/object/2494> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12469> .
+
+<http://culturecloud.ru/resource/object/2495> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/caricature> .
+
+<http://culturecloud.ru/resource/object/2497> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2498> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2499> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2500> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2502> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2503> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2506> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2507> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2509> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2511> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2513> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2514> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/2516> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2519> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2522> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2524> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2526> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2529> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2531> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2533> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2535> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2538> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2540> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2541> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2542> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2543> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2544> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2545> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2546> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2547> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2548> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2549> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2550> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2551> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/2552> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2553> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2555> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2557> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2559> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2564> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2566> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2567> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2568> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2570> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2685> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2688> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2689> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2705> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/2706> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/2707> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/2708> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/2709> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2710> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/2711> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/2712> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/2716> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2774> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2776> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2794> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2795> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2801> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2802> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2815> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2848> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2849> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/2850> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2851> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2852> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2853> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/2854> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2878> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2927> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/2928> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2929> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/2940> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/2948> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/2949> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/2950> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/3053> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3391> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/3392> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/3395> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/3403> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3404> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3409> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3410> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3413> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3414> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3417> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3418> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3420> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3421> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3422> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3424> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3425> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3427> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/3428> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3429> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3430> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3432> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3433> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3434> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3436> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3438> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3440> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/3445> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3446> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3449> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3450> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3451> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3453> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3454> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/3456> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3457> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3464> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3466> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3467> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3469> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3473> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3474> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3476> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/3477> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3479> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3480> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3481> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3483> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3484> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3485> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3486> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3489> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3542> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3543> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3544> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3602> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/3646> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3647> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3648> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3650> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3653> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3654> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/3655> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3658> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3661> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3663> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3665> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/3680> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3691> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3692> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3702> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3706> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/3707> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3708> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3709> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3717> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3719> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3720> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3721> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3722> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/3731> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3734> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3735> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/3737> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3743> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/3748> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3749> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3751> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3752> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3755> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3756> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/3783> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/3785> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3787> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3856> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3862> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3863> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3864> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/3890> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/3895> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4007> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4008> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4009> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4018> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4021> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4025> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4031> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/4035> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/4038> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/4042> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/4044> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4047> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4048> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4049> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4050> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4051> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4054> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4055> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4056> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4057> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4058> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4059> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4064> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4065> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4068> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4069> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4070> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4071> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4072> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4073> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4074> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4077> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4078> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4079> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4082> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13251> .
+
+<http://culturecloud.ru/resource/object/4085> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4086> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4087> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4089> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4090> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4091> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4092> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4093> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4094> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4102> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4103> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4104> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4105> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4108> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4109> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4113> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4114> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4119> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4121> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4122> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4123> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4127> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4129> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4130> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4131> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4132> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4135> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4136> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4150> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4156> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4157> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4158> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4161> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4162> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4165> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4166> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4167> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4168> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4171> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4174> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4175> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4178> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4179> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4180> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4181> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4183> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4370> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4394> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4396> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4397> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4398> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4399> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/4400> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4402> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4413> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/4417> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/4418> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4420> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4421> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4516> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4517> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4520> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4522> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4525> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4526> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4527> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4528> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4529> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4530> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4533> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4535> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/4536> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/4543> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4544> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4548> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4701> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4704> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4705> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4707> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4709> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4710> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4714> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4715> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4716> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4717> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4721> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4724> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4727> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4732> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4733> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4743> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4745> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/4750> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4762> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4780> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4783> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4786> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4787> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4789> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/4792> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/4795> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/555> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/556> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/557> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/558> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/559> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/560> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/561> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/562> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/563> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/564> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/567> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/568> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/569> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/570> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/571> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/572> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/573> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/574> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/575> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/577> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/578> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/579> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/580> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/581> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/582> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/583> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/584> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/585> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/586> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/587> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/614> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/615> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/616> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/617> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/618> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/619> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/620> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/621> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/622> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/623> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/624> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/625> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/626> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/627> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/628> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/629> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/630> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/631> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/632> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/633> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/638> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/639> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/640> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/641> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/642> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/643> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/644> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/646> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/647> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/648> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/649> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/650> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/651> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/652> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/653> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/654> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/655> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/656> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/657> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/658> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/659> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/660> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/661> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/662> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/663> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/664> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/665> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/666> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/667> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/668> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/669> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/670> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/671> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/672> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/673> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/674> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/675> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/676> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/677> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/678> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/679> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/680> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/681> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/682> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/683> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/684> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/685> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/686> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/687> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/688> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/689> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/690> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/691> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/692> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/693> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/694> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/695> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/697> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/698> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/700> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/701> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/702> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/703> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/754> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/755> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/756> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/760> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/761> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/764> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/766> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/768> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/769> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/770> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/771> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/774> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/775> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/776> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/779> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/780> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/781> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/782> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/783> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/784> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/786> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/787> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/788> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/789> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/790> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/791> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/792> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/793> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/794> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/795> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/796> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/797> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/798> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/799> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/801> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/802> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/803> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/804> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/805> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/806> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/807> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/809> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/810> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/811> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/816> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/818> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/819> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/820> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/821> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/822> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/823> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/825> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/826> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/828> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/830> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/834> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/836> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/844> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/848> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/849> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/851> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/852> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/855> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x13409> .
+
+<http://culturecloud.ru/resource/object/861> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/863> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/865> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/867> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/869> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/871> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/873> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/876> <http://erlangen-crm.org/current/P2_has_type> <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/878> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/879> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/938> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/939> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/940> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/941> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/942> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/944> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/945> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/946> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/947> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/948> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/949> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/950> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/951> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/952> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/953> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/954> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/955> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/956> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/957> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/958> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/959> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/960> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/961> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/988> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/991> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/992> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/993> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/995> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12542> .
+
+<http://culturecloud.ru/resource/object/996> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/997> <http://erlangen-crm.org/current/P2_has_type> <http://collection.britishmuseum.org/id/thesauri/x12859> .
