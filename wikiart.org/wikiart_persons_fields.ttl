@@ -1,0 +1,140 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rm-lod-schema: <http://rm-lod.org/schema/> .
+
+<http://dbpedia.org/resource/Aleksandra_Ekster> rm-lod-schema:artist_field "painting"@en,
+     "design"@en .
+
+<http://dbpedia.org/resource/Aleksey_Antropov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Alexander_Bogomazov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Alexandre_Benois> rm-lod-schema:artist_field "painting"@en,
+     "design"@en .
+
+<http://dbpedia.org/resource/Alexandre_Jacovleff> rm-lod-schema:artist_field "painting"@en,
+     "design"@en,
+     "etching"@en .
+
+<http://dbpedia.org/resource/Alexei_Savrasov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Alexey_Bogolyubov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Alexey_Venetsianov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Aristarkh_Lentulov> rm-lod-schema:artist_field "painting"@en,
+     "design"@en .
+
+<http://dbpedia.org/resource/Arkhip_Kuindzhi> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Boris_Grigoriev> rm-lod-schema:artist_field "painting"@en,
+     "graphics"@en .
+
+<http://dbpedia.org/resource/Boris_Kustodiev> rm-lod-schema:artist_field "painting"@en,
+     "design"@en .
+
+<http://dbpedia.org/resource/Fyodor_Alekseyev> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Fyodor_Rokotov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Fyodor_Vasilyev> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Grigoriy_Myasoyedov> rm-lod-schema:artist_field "painting"@en,
+     "engraving"@en .
+
+<http://dbpedia.org/resource/Henryk_Siemiradzki> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Ilya_Repin> rm-lod-schema:artist_field "painting"@en,
+     "sculpture"@en .
+
+<http://dbpedia.org/resource/Isaac_Levitan> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Ivan_Aivazovsky> rm-lod-schema:artist_field "painting"@en,
+     "drawing"@en .
+
+<http://dbpedia.org/resource/Ivan_Kramskoi> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Ivan_Nikitich_Nikitin> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Ivan_Shishkin> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Karl_Bryullov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Kazimir_Malevich> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Konstantin_Bogaevsky> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Konstantin_Flavitsky> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Konstantin_Korovin> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Konstantin_Makovsky> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Konstantin_Somov> rm-lod-schema:artist_field "painting"@en,
+     "illustration"@en .
+
+<http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Lyubov_Popova> rm-lod-schema:artist_field "painting"@en,
+     "design"@en .
+
+<http://dbpedia.org/resource/Mikhail_Lebedev> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Mikhail_Nesterov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Mikhail_Vrubel> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Mstislav_Dobuzhinsky> rm-lod-schema:artist_field "painting"@en,
+     "design"@en .
+
+<http://dbpedia.org/resource/Natalia_Goncharova> rm-lod-schema:artist_field "painting"@en,
+     "design"@en,
+     "illustration"@en .
+
+<http://dbpedia.org/resource/Nicholas_Roerich> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Nikolai_Ge> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Nikolai_Yaroshenko> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Olga_Rozanova> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Orest_Kiprensky> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Pavel_Fedotov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Pyotr_Konchalovsky> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Valentin_Serov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Vasily_Perov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Vasily_Polenov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Vasily_Sadovnikov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Vasily_Surikov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Vasily_Tropinin> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Vasily_Vereshchagin> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Victor_Borisov-Musatov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Viktor_Vasnetsov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Vladimir_Borovikovsky> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Vladimir_Makovsky> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Vladimir_Tatlin> rm-lod-schema:artist_field "painting"@en,
+     "architecture"@en .
+
+<http://dbpedia.org/resource/Wassily_Kandinsky> rm-lod-schema:artist_field "painting"@en,
+     "engraving"@en,
+     "art theory"@en .
+
+<http://dbpedia.org/resource/Yury_Annenkov> rm-lod-schema:artist_field "painting"@en .
+
+<http://dbpedia.org/resource/Zinaida_Serebriakova> rm-lod-schema:artist_field "painting"@en .

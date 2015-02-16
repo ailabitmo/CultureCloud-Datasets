@@ -1,0 +1,110 @@
+@prefix rm-lod-schema: <http://rm-lod.org/schema/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Aleksandra_Ekster> rm-lod-schema:painting_school "Jack of Diamonds",
+     "Société des Artistes Indépendants (Society of Independent Artists)",
+     "Supremus",
+     "Soyuz Molodyozhi (Union of the Youth)" .
+
+<http://dbpedia.org/resource/Alexander_Bogomazov> rm-lod-schema:painting_school "Zveno (Link)",
+     "ARMU (Association of Revolutionary Masters of Ukraine)" .
+
+<http://dbpedia.org/resource/Alexandre_Benois> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)" .
+
+<http://dbpedia.org/resource/Alexandre_Jacovleff> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)" .
+
+<http://dbpedia.org/resource/Alexei_Savrasov> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Alexey_Bogolyubov> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Aristarkh_Lentulov> rm-lod-schema:painting_school "Jack of Diamonds" .
+
+<http://dbpedia.org/resource/Arkhip_Kuindzhi> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Boris_Kustodiev> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)",
+     "AKhRR (Association of Artists of Revolutionary Russia)",
+     "Union of Russian Artists" .
+
+<http://dbpedia.org/resource/Filipp_Malyavin> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Fyodor_Vasilyev> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Grigoriy_Myasoyedov> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Ilya_Mashkov> rm-lod-schema:painting_school "Jack of Diamonds" .
+
+<http://dbpedia.org/resource/Ilya_Repin> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Isaac_Levitan> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Ivan_Aivazovsky> rm-lod-schema:painting_school "Cimmerian Art School" .
+
+<http://dbpedia.org/resource/Ivan_Kramskoi> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Ivan_Shishkin> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Kazimir_Malevich> rm-lod-schema:painting_school "Jack of Diamonds",
+     "Soyuz Molodyozhi (Union of the Youth)",
+     "Donkey's Tail (Osliniy khvost)" .
+
+<http://dbpedia.org/resource/Konstantin_Bogaevsky> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)",
+     "Cimmerian Art School",
+     "Union of Russian Artists" .
+
+<http://dbpedia.org/resource/Konstantin_Korovin> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)" .
+
+<http://dbpedia.org/resource/Konstantin_Makovsky> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Konstantin_Somov> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)" .
+
+<http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)",
+     "Four Arts Society of Artists" .
+
+<http://dbpedia.org/resource/Lyubov_Popova> rm-lod-schema:painting_school "Supremus" .
+
+<http://dbpedia.org/resource/Mikhail_Nesterov> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)",
+     "Peredvizhniki (Society for Traveling Art Exhibitions)",
+     "Union of Russian Artists" .
+
+<http://dbpedia.org/resource/Mikhail_Vrubel> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)" .
+
+<http://dbpedia.org/resource/Mstislav_Dobuzhinsky> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)" .
+
+<http://dbpedia.org/resource/Natalia_Goncharova> rm-lod-schema:painting_school "Der Blaue Reiter (The Blue Rider)",
+     "Jack of Diamonds",
+     "Donkey's Tail (Osliniy khvost)" .
+
+<http://dbpedia.org/resource/Nicholas_Roerich> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)" .
+
+<http://dbpedia.org/resource/Nikolai_Yaroshenko> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Olga_Rozanova> rm-lod-schema:painting_school "Supremus",
+     "Soyuz Molodyozhi (Union of the Youth)" .
+
+<http://dbpedia.org/resource/Pyotr_Konchalovsky> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)",
+     "Jack of Diamonds",
+     "Soyuz Molodyozhi (Union of the Youth)",
+     "AKhRR (Association of Artists of Revolutionary Russia)" .
+
+<http://dbpedia.org/resource/Valentin_Serov> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Vasily_Perov> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Vasily_Polenov> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Vasily_Surikov> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Viktor_Vasnetsov> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)",
+     "Union of Russian Artists" .
+
+<http://dbpedia.org/resource/Vladimir_Makovsky> rm-lod-schema:painting_school "Peredvizhniki (Society for Traveling Art Exhibitions)" .
+
+<http://dbpedia.org/resource/Wassily_Kandinsky> rm-lod-schema:painting_school "Blue Rose",
+     "Der Blaue Reiter (The Blue Rider)",
+     "Bauhaus",
+     "Degenerate art" .
+
+<http://dbpedia.org/resource/Yury_Annenkov> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)",
+     "OST (Society of Easel Painters)" .
+
+<http://dbpedia.org/resource/Zinaida_Serebriakova> rm-lod-schema:painting_school "Mir Iskusstva (World of Art)" .

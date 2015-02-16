@@ -1,0 +1,142 @@
+@prefix dbpedia: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://dbpedia.org/resource/Aleksandra_Ekster> dbpedia:nationality "Russian"@en,
+     "Ukrainian"@en .
+
+<http://dbpedia.org/resource/Aleksey_Antropov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Alexander_Bogomazov> dbpedia:nationality "Ukrainian"@en .
+
+<http://dbpedia.org/resource/Alexandre_Benois> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Alexandre_Jacovleff> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Alexei_Savrasov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Alexey_Bogolyubov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Alexey_Venetsianov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Aristarkh_Lentulov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Arkhip_Kuindzhi> dbpedia:nationality "Russian"@en,
+     "Ukrainian"@en,
+     "Greek"@en .
+
+<http://dbpedia.org/resource/Boris_Grigoriev> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Boris_Kustodiev> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Dmitry_Levitzky> dbpedia:nationality "Russian"@en,
+     "Ukrainian"@en .
+
+<http://dbpedia.org/resource/Filipp_Malyavin> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Fyodor_Alekseyev> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Fyodor_Rokotov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Fyodor_Vasilyev> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Grigoriy_Myasoyedov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Henryk_Siemiradzki> dbpedia:nationality "Polish"@en .
+
+<http://dbpedia.org/resource/Ilya_Mashkov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Ilya_Repin> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Isaac_Levitan> dbpedia:nationality "Russian"@en,
+     "Jewish"@en .
+
+<http://dbpedia.org/resource/Ivan_Aivazovsky> dbpedia:nationality "Russian"@en,
+     "Armenian"@en .
+
+<http://dbpedia.org/resource/Ivan_Kramskoi> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Ivan_Nikitich_Nikitin> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Ivan_Shishkin> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Karl_Bryullov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Kazimir_Malevich> dbpedia:nationality "Russian"@en,
+     "Ukrainian"@en,
+     "Polish"@en .
+
+<http://dbpedia.org/resource/Konstantin_Bogaevsky> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Konstantin_Flavitsky> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Konstantin_Korovin> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Konstantin_Makovsky> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Konstantin_Somov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Lyubov_Popova> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Mikhail_Lebedev> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Mikhail_Nesterov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Mikhail_Vrubel> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Mstislav_Dobuzhinsky> dbpedia:nationality "Russian"@en,
+     "Lithuanian"@en .
+
+<http://dbpedia.org/resource/Natalia_Goncharova> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Nicholas_Roerich> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Nikolai_Ge> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Nikolai_Yaroshenko> dbpedia:nationality "Russian"@en,
+     "Ukrainian"@en .
+
+<http://dbpedia.org/resource/Olga_Rozanova> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Orest_Kiprensky> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Pavel_Fedotov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Pyotr_Konchalovsky> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Valentin_Serov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Vasily_Perov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Vasily_Polenov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Vasily_Sadovnikov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Vasily_Surikov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Vasily_Tropinin> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Vasily_Vereshchagin> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Victor_Borisov-Musatov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Viktor_Vasnetsov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Vladimir_Borovikovsky> dbpedia:nationality "Russian"@en,
+     "Ukrainian"@en .
+
+<http://dbpedia.org/resource/Vladimir_Makovsky> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Vladimir_Tatlin> dbpedia:nationality "Russian"@en,
+     "Ukrainian"@en .
+
+<http://dbpedia.org/resource/Volodymyr_Orlovsky> dbpedia:nationality "Ukrainian"@en .
+
+<http://dbpedia.org/resource/Wassily_Kandinsky> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Yury_Annenkov> dbpedia:nationality "Russian"@en .
+
+<http://dbpedia.org/resource/Zinaida_Serebriakova> dbpedia:nationality "Russian"@en .
