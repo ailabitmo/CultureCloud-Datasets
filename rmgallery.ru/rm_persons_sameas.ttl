@@ -79,7 +79,7 @@ cc_person:1464 owl:sameAs dbp:Alexei_Korzukhin,
 cc_person:1466 owl:sameAs dbp:Nikolay_Koshelev,
      <http://ru.dbpedia.org/resource/Кошелев,_Николай_Андреевич> .
 
-cc_person:1468 owl:sameAs <http://dbpedia.org/resource/Фелицин,_Ростислав_Иванович> .
+cc_person:1468 owl:sameAs <http://ru.dbpedia.org/resource/Фелицин,_Ростислав_Иванович> .
 
 cc_person:1491 owl:sameAs dbp:Mikhail_Avilov,
      <http://ru.dbpedia.org/resource/Авилов,_Михаил_Иванович> .
@@ -105,7 +105,7 @@ cc_person:1581 owl:sameAs <http://ru.dbpedia.org/resource/Милиоти,_Ник
 
 cc_person:1587 owl:sameAs <http://ru.dbpedia.org/resource/Басин,_Пётр_Васильевич> .
 
-cc_person:1589 owl:sameAs <http://dbpedia.org/resource/Иванов-Голубой,_Антон_Иванович> .
+cc_person:1589 owl:sameAs <http://ru.dbpedia.org/resource/Иванов-Голубой,_Антон_Иванович> .
 
 cc_person:1687 owl:sameAs dbp:Vasily_Sadovnikov,
      <http://ru.dbpedia.org/resource/Садовников,_Василий_Семёнович> .
@@ -123,33 +123,33 @@ cc_person:1742 owl:sameAs <http://ru.dbpedia.org/resource/Бялыницкий-�
 
 cc_person:1746 owl:sameAs <http://ru.dbpedia.org/resource/Беггров,_Карл_Петрович> .
 
-cc_person:1891 owl:sameAs <http://dbpedia.org/resource/Рослин,_Александр> .
+cc_person:1891 owl:sameAs <http://ru.dbpedia.org/resource/Рослин,_Александр> .
 
-cc_person:1896 owl:sameAs <http://dbpedia.org/resource/Монье,_Жан_Лоран> .
+cc_person:1896 owl:sameAs <http://ru.dbpedia.org/resource/Монье,_Жан_Лоран> .
 
 cc_person:1901 owl:sameAs dbp:Alexander_Varnek,
      <http://ru.dbpedia.org/resource/Варнек,_Александр_Григорьевич> .
 
-cc_person:1904 owl:sameAs dbp:Тупылев_Иван_Филиппович .
+cc_person:1904 owl:sameAs <http://ru.dbpedia.org/resource/Тупылев_Иван_Филиппович> .
 
 cc_person:1910 owl:sameAs <http://ru.dbpedia.org/resource/Лампи_Старший,_Иоганн_Баптист>,
      dbp:Johann_Baptist_von_Lampi_the_Elder .
 
-cc_person:1917 owl:sameAs <http://dbpedia.org/resource/Воронихин,_Андрей_Никифорович> .
+cc_person:1917 owl:sameAs <http://ru.dbpedia.org/resource/Воронихин,_Андрей_Никифорович> .
 
-cc_person:1939 owl:sameAs <http://dbpedia.org/resource/Токке,_Луи> .
+cc_person:1939 owl:sameAs <http://ru.dbpedia.org/resource/Токке,_Луи> .
 
 cc_person:2005 owl:sameAs <http://dbpedia.org/resource/Aleksandr_Gerasimov_(painter)>,
      <http://ru.dbpedia.org/resource/Герасимов,_Александр_Михайлович_(художник)> .
 
-cc_person:2056 owl:sameAs <http://dbpedia.org/resource/Вуаль,_Жан-Луи> .
+cc_person:2056 owl:sameAs <http://ru.dbpedia.org/resource/Вуаль,_Жан-Луи> .
 
-cc_person:2082 owl:sameAs <http://dbpedia.org/resource/Виже-Лебрён,_Мари_Элизабет_Луиза> .
+cc_person:2082 owl:sameAs <http://ru.dbpedia.org/resource/Виже-Лебрён,_Мари_Элизабет_Луиза> .
 
 cc_person:2084 owl:sameAs dbp:Alexander_Brullov,
      <http://ru.dbpedia.org/resource/Брюллов,_Александр_Павлович> .
 
-cc_person:2113 owl:sameAs <http://dbpedia.org/resource/Шибанов,_Михаил> .
+cc_person:2113 owl:sameAs <http://ru.dbpedia.org/resource/Шибанов,_Михаил> .
 
 cc_person:2141 owl:sameAs dbp:Charles_de_Steuben,
      <http://ru.dbpedia.org/resource/Штейбен,_Карл_Карлович> .
@@ -170,7 +170,7 @@ cc_person:2219 owl:sameAs <http://ru.dbpedia.org/resource/Химона,_Нико
 
 cc_person:2401 owl:sameAs <http://ru.dbpedia.org/resource/Соколов-Скаля,_Павел_Петрович> .
 
-cc_person:2408 owl:sameAs <http://dbpedia.org/resource/Курдов,_Валентин_Иванович> .
+cc_person:2408 owl:sameAs <http://ru.dbpedia.org/resource/Курдов,_Валентин_Иванович> .
 
 cc_person:2422 owl:sameAs <http://ru.dbpedia.org/resource/Остроумова-Лебедева,_Анна_Петровна> .
 
@@ -185,26 +185,26 @@ cc_person:2428 owl:sameAs dbp:Grigory_Gagarin,
 cc_person:2436 owl:sameAs <http://ru.dbpedia.org/resource/Соколов,_Пётр_Фёдорович>,
      dbp:Pyotr_Fyodorovich_Sokolov .
 
-cc_person:2444 owl:sameAs <http://dbpedia.org/resource/Рабус,_Карл_Иванович> .
+cc_person:2444 owl:sameAs <http://ru.dbpedia.org/resource/Рабус,_Карл_Иванович> .
 
-cc_person:2473 owl:sameAs <http://dbpedia.org/resource/Есаков,_Ермолай_Иванович> .
+cc_person:2473 owl:sameAs <http://ru.dbpedia.org/resource/Есаков,_Ермолай_Иванович> .
 
 cc_person:2480 owl:sameAs <http://ru.dbpedia.org/resource/Иванов,_Иван_Алексеевич_(живописец)>,
      <http://ru.dbpedia.org/resource/Иванов,_Иван_Андреевич_(живописец)> .
 
-cc_person:2483 owl:sameAs <http://dbpedia.org/resource/Каратыгин,_Пётр_Андреевич> .
+cc_person:2483 owl:sameAs <http://ru.dbpedia.org/resource/Каратыгин,_Пётр_Андреевич> .
 
 cc_person:2510 owl:sameAs dbp:Grigory_Chernetsov,
      <http://ru.dbpedia.org/resource/Чернецов,_Григорий_Григорьевич> .
 
 cc_person:2517 owl:sameAs <http://ru.dbpedia.org/resource/Яненко,_Яков_Феодосиевич> .
 
-cc_person:2520 owl:sameAs <http://dbpedia.org/resource/Грот,_Георг_Христофор> .
+cc_person:2520 owl:sameAs <http://ru.dbpedia.org/resource/Грот,_Георг_Христофор> .
 
 cc_person:2523 owl:sameAs dbp:Otto_Friedrich_Theodor_von_M%C3%B6ller,
      <http://ru.dbpedia.org/resource/Моллер,_Фёдор_Антонович> .
 
-cc_person:2527 owl:sameAs <http://dbpedia.org/resource/Кюгельген,_Герхардт_фон> .
+cc_person:2527 owl:sameAs <http://ru.dbpedia.org/resource/Кюгельген,_Герхардт_фон> .
 
 cc_person:2536 owl:sameAs <http://ru.dbpedia.org/resource/Чемесов,_Евграф_Петрович> .
 
@@ -215,7 +215,7 @@ cc_person:2556 owl:sameAs <http://ru.dbpedia.org/resource/Тюрин,_Плато
 cc_person:2571 owl:sameAs dbp:Konstantin_Bogaevsky,
      <http://ru.dbpedia.org/resource/Богаевский,_Константин_Фёдорович> .
 
-cc_person:2683 owl:sameAs <http://dbpedia.org/resource/Яковлев,_Иван_Еремеевич> .
+cc_person:2683 owl:sameAs <http://ru.dbpedia.org/resource/Яковлев,_Иван_Еремеевич> .
 
 cc_person:2779 owl:sameAs <http://ru.dbpedia.org/resource/Макаров,_Евгений_Кириллович> .
 
@@ -230,7 +230,7 @@ cc_person:3682 owl:sameAs dbp:Valery_Jacobi,
 cc_person:3684 owl:sameAs dbp:Alexey_Tyranov,
      <http://ru.dbpedia.org/resource/Тыранов,_Алексей_Васильевич> .
 
-cc_person:3688 owl:sameAs <http://dbpedia.org/resource/Роллер,_Андреас_Леонгард> .
+cc_person:3688 owl:sameAs <http://ru.dbpedia.org/resource/Роллер,_Андреас_Леонгард> .
 
 cc_person:3729 owl:sameAs dbp:Volodymyr_Orlovsky,
      <http://ru.dbpedia.org/resource/Орловский,_Владимир_Донатович> .
@@ -243,7 +243,7 @@ cc_person:3746 owl:sameAs dbp:Ivan_Makarov,
 cc_person:3780 owl:sameAs <http://ru.dbpedia.org/resource/Соколов,_Павел_Петрович_(художник)>,
      <http://ru.dbpedia.org/resource/Соколов,_Павел_Петрович_(скульптор)> .
 
-cc_person:3809 owl:sameAs <http://dbpedia.org/resource/Мордвинов,_Александр_Николаевич_(художник)> .
+cc_person:3809 owl:sameAs <http://ru.dbpedia.org/resource/Мордвинов,_Александр_Николаевич_(художник)> .
 
 cc_person:3812 owl:sameAs dbp:Andrey_Yefimovich_Martynov,
      <http://ru.dbpedia.org/resource/Мартынов,_Андрей_Ефимович> .
@@ -251,36 +251,36 @@ cc_person:3812 owl:sameAs dbp:Andrey_Yefimovich_Martynov,
 cc_person:3814 owl:sameAs dbp:Ernst_Friedrich_von_Liphart,
      <http://ru.dbpedia.org/resource/Липгарт,_Эрнст_Карлович> .
 
-cc_person:3826 owl:sameAs <http://dbpedia.org/resource/Клодт,_Михаил_Константинович> .
+cc_person:3826 owl:sameAs <http://ru.dbpedia.org/resource/Клодт,_Михаил_Константинович> .
 
-cc_person:3832 owl:sameAs <http://dbpedia.org/resource/Патерсен,_Бенжамен> .
+cc_person:3832 owl:sameAs <http://ru.dbpedia.org/resource/Патерсен,_Бенжамен> .
 
 cc_person:3838 owl:sameAs <http://ru.dbpedia.org/resource/Сверчков,_Николай_Егорович>,
      dbp:Nikolai_Sverchkov .
 
-cc_person:3846 owl:sameAs <http://dbpedia.org/resource/Христинек,_Карл_Людвиг> .
+cc_person:3846 owl:sameAs <http://ru.dbpedia.org/resource/Христинек,_Карл_Людвиг> .
 
-cc_person:3850 owl:sameAs <http://dbpedia.org/resource/Фогель_фон_Фогельштейн,_Карл_Кристиан> .
+cc_person:3850 owl:sameAs <http://ru.dbpedia.org/resource/Фогель_фон_Фогельштейн,_Карл_Кристиан> .
 
 cc_person:3854 owl:sameAs <http://ru.dbpedia.org/resource/Дрождин,_Пётр_Семёнович> .
 
-cc_person:3860 owl:sameAs <http://dbpedia.org/resource/Доу,_Джордж> .
+cc_person:3860 owl:sameAs <http://ru.dbpedia.org/resource/Доу,_Джордж> .
 
-cc_person:4019 owl:sameAs <http://dbpedia.org/resource/Дельсарт,_Жан_Фредерик> .
+cc_person:4019 owl:sameAs <http://ru.dbpedia.org/resource/Дельсарт,_Жан_Фредерик> .
 
-cc_person:4036 owl:sameAs <http://dbpedia.org/resource/Пелевин,_Иван_Андреевич> .
+cc_person:4036 owl:sameAs <http://ru.dbpedia.org/resource/Пелевин,_Иван_Андреевич> .
 
-cc_person:4066 owl:sameAs <http://dbpedia.org/resource/Тончи,_Сальваторе> .
+cc_person:4066 owl:sameAs <http://ru.dbpedia.org/resource/Тончи,_Сальваторе> .
 
-cc_person:4080 owl:sameAs <http://dbpedia.org/resource/Олешкевич,_Юзеф> .
+cc_person:4080 owl:sameAs <http://ru.dbpedia.org/resource/Олешкевич,_Юзеф> .
 
-cc_person:4106 owl:sameAs <http://dbpedia.org/resource/Верне,_Орас> .
+cc_person:4106 owl:sameAs <http://ru.dbpedia.org/resource/Верне,_Орас> .
 
-cc_person:4125 owl:sameAs <http://dbpedia.org/resource/Захаров-Чеченец,_Пётр_Захарович> .
+cc_person:4125 owl:sameAs <http://ru.dbpedia.org/resource/Захаров-Чеченец,_Пётр_Захарович> .
 
-cc_person:4151 owl:sameAs <http://dbpedia.org/resource/Никитин,_Иван_Никитич> .
+cc_person:4151 owl:sameAs <http://ru.dbpedia.org/resource/Никитин,_Иван_Никитич> .
 
-cc_person:4159 owl:sameAs <http://dbpedia.org/resource/Торелли,_Стефано> .
+cc_person:4159 owl:sameAs <http://ru.dbpedia.org/resource/Торелли,_Стефано> .
 
 cc_person:4172 owl:sameAs <http://ru.dbpedia.org/resource/Вебер,_Яков_Яковлевич> .
 
@@ -291,7 +291,7 @@ cc_person:4594 owl:sameAs <http://ru.dbpedia.org/resource/Межиров,_Юри
 cc_person:4629 owl:sameAs dbp:Mikhail_Scotti,
      <http://ru.dbpedia.org/resource/Скотти,_Михаил_Иванович> .
 
-cc_person:522 owl:sameAs <http://dbpedia.org/resource/Ушаков,_Симон_Фёдорович> .
+cc_person:522 owl:sameAs <http://ru.dbpedia.org/resource/Ушаков,_Симон_Фёдорович> .
 
 cc_person:527 owl:sameAs <http://ru.dbpedia.org/resource/Алексеев,_Фёдор_Яковлевич>,
      dbp:Fyodor_Alekseyev .
@@ -308,7 +308,7 @@ cc_person:530 owl:sameAs dbp:Vladimir_Borovikovsky,
 cc_person:531 owl:sameAs dbp:Ivan_Vishnyakov,
      <http://ru.dbpedia.org/resource/Вишняков,_Иван_Яковлевич> .
 
-cc_person:532 owl:sameAs <http://dbpedia.org/resource/Каравак,_Луи> .
+cc_person:532 owl:sameAs <http://ru.dbpedia.org/resource/Каравак,_Луи> .
 
 cc_person:533 owl:sameAs dbp:Dmitry_Levitzky,
      <http://ru.dbpedia.org/resource/Левицкий,_Дмитрий_Григорьевич> .
@@ -316,7 +316,7 @@ cc_person:533 owl:sameAs dbp:Dmitry_Levitzky,
 cc_person:534 owl:sameAs dbp:Anton_Losenko,
      <http://ru.dbpedia.org/resource/Лосенко,_Антон_Павлович> .
 
-cc_person:535 owl:sameAs <http://dbpedia.org/resource/Матвеев,_Андрей_Матвеевич> .
+cc_person:535 owl:sameAs <http://ru.dbpedia.org/resource/Матвеев,_Андрей_Матвеевич> .
 
 cc_person:536 owl:sameAs dbp:Ivan_Nikitich_Nikitin,
      <http://ru.dbpedia.org/resource/Никитин,_Иван_Никитич> .
@@ -340,7 +340,7 @@ cc_person:543 owl:sameAs dbp:Karl_Bryullov,
 cc_person:544 owl:sameAs dbp:Alexey_Venetsianov,
      <http://ru.dbpedia.org/resource/Венецианов,_Алексей_Гаврилович> .
 
-cc_person:545 owl:sameAs <http://dbpedia.org/resource/Воробьёв,_Максим_Никифорович> .
+cc_person:545 owl:sameAs <http://ru.dbpedia.org/resource/Воробьёв,_Максим_Никифорович> .
 
 cc_person:546 owl:sameAs dbp:Alexander_Andreyevich_Ivanov,
      <http://ru.dbpedia.org/resource/Иванов,_Александр_Андреевич> .
@@ -350,7 +350,7 @@ cc_person:547 owl:sameAs <http://ru.dbpedia.org/resource/Иванов,_Андр�
 cc_person:548 owl:sameAs <http://ru.dbpedia.org/resource/Кипренский,_Орест_Адамович>,
      dbp:Orest_Kiprensky .
 
-cc_person:549 owl:sameAs <http://dbpedia.org/resource/Крылов,_Никифор_Степанович> .
+cc_person:549 owl:sameAs <http://ru.dbpedia.org/resource/Крылов,_Никифор_Степанович> .
 
 cc_person:550 owl:sameAs dbp:Mikhail_Lebedev,
      <http://ru.dbpedia.org/resource/Лебедев,_Михаил_Иванович_(живописец)> .
@@ -379,7 +379,7 @@ cc_person:591 owl:sameAs dbp:Vasily_Vereshchagin,
 cc_person:592 owl:sameAs <http://ru.dbpedia.org/resource/Ге,_Николай_Николаевич>,
      dbp:Nikolai_Ge .
 
-cc_person:593 owl:sameAs <http://dbpedia.org/resource/Журавлёв,_Фирс_Сергеевич> .
+cc_person:593 owl:sameAs <http://ru.dbpedia.org/resource/Журавлёв,_Фирс_Сергеевич> .
 
 cc_person:594 owl:sameAs <http://ru.dbpedia.org/resource/Касаткин,_Николай_Алексеевич>,
      dbp:Nikolay_Kasatkin .
@@ -443,7 +443,7 @@ cc_person:707 owl:sameAs <http://ru.dbpedia.org/resource/Альтман,_Нат�
 cc_person:708 owl:sameAs dbp:Abram_Arkhipov,
      <http://ru.dbpedia.org/resource/Архипов,_Абрам_Ефимович> .
 
-cc_person:709 owl:sameAs dbp:Леон_Бакст .
+cc_person:709 owl:sameAs <http://ru.dbpedia.org/resource/Леон_Бакст> .
 
 cc_person:710 owl:sameAs dbp:Alexandre_Benois,
      dbp:Albert_Nikolayevitch_Benois,
@@ -483,7 +483,7 @@ cc_person:720 owl:sameAs dbp:Wassily_Kandinsky,
 cc_person:721 owl:sameAs dbp:Konstantin_Korovin,
      <http://ru.dbpedia.org/resource/Коровин,_Константин_Алексеевич> .
 
-cc_person:722 owl:sameAs <http://dbpedia.org/resource/Ле-Дантю,_Михаил_Васильевич> .
+cc_person:722 owl:sameAs <http://ru.dbpedia.org/resource/Ле-Дантю,_Михаил_Васильевич> .
 
 cc_person:723 owl:sameAs dbp:Aristarkh_Lentulov,
      <http://ru.dbpedia.org/resource/Лентулов,_Аристарх_Васильевич> .
@@ -556,7 +556,7 @@ cc_person:747 owl:sameAs dbp:Alexander_Nikolayevich_Samokhvalov,
 cc_person:748 owl:sameAs dbp:Vladimir_Tatlin,
      <http://ru.dbpedia.org/resource/Татлин,_Владимир_Евграфович> .
 
-cc_person:749 owl:sameAs <http://dbpedia.org/resource/Филонов,_Павел_Николаевич> .
+cc_person:749 owl:sameAs <http://ru.dbpedia.org/resource/Филонов,_Павел_Николаевич> .
 
 cc_person:750 owl:sameAs dbp:Marc_Chagall,
      <http://ru.dbpedia.org/resource/Шагал,_Марк_Захарович> .
@@ -595,4 +595,4 @@ cc_person:972 owl:sameAs <http://ru.dbpedia.org/resource/Попков,_Викт�
 
 cc_person:973 owl:sameAs <http://ru.dbpedia.org/resource/Степанов,_Алексей_Степанович> .
 
-cc_person:974 owl:sameAs <http://dbpedia.org/resource/Щедрин,_Семён_Фёдорович> .
+cc_person:974 owl:sameAs <http://ru.dbpedia.org/resource/Щедрин,_Семён_Фёдорович> .
