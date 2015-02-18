@@ -1,0 +1,321 @@
+@prefix cc_person: <http://culturecloud.ru/resource/person/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+cc_person:1006 owl:sameAs wd:Q620483 .
+
+cc_person:1007 owl:sameAs wd:Q972018 .
+
+cc_person:1008 owl:sameAs wd:Q2121678 .
+
+cc_person:1011 owl:sameAs wd:Q161858 .
+
+cc_person:1018 owl:sameAs wd:Q4299792 .
+
+cc_person:1028 owl:sameAs wd:Q4232997 .
+
+cc_person:1031 owl:sameAs wd:Q671962 .
+
+cc_person:1124 owl:sameAs wd:Q447991 .
+
+cc_person:1134 owl:sameAs wd:Q213596 .
+
+cc_person:1136 owl:sameAs wd:Q467795 .
+
+cc_person:1138 owl:sameAs wd:Q662323 .
+
+cc_person:1147 owl:sameAs wd:Q937911 .
+
+cc_person:1253 owl:sameAs wd:Q1343751 .
+
+cc_person:1278 owl:sameAs wd:Q618906 .
+
+cc_person:1280 owl:sameAs wd:Q2509630 .
+
+cc_person:1411 owl:sameAs wd:Q4247553 .
+
+cc_person:1413 owl:sameAs wd:Q4526845 .
+
+cc_person:1415 owl:sameAs wd:Q242121 .
+
+cc_person:1426 owl:sameAs wd:Q2626131 .
+
+cc_person:1458 owl:sameAs wd:Q4157087 .
+
+cc_person:1464 owl:sameAs wd:Q2834356 .
+
+cc_person:1466 owl:sameAs wd:Q455975 .
+
+cc_person:1491 owl:sameAs wd:Q4055907 .
+
+cc_person:1492 owl:sameAs wd:Q7917745 .
+
+cc_person:1493 owl:sameAs wd:Q664680 .
+
+cc_person:1495 owl:sameAs wd:Q4519823 .
+
+cc_person:1496 owl:sameAs wd:Q3740994 .
+
+cc_person:1516 owl:sameAs wd:Q742253 .
+
+cc_person:1589 owl:sameAs wd:Q4196374 .
+
+cc_person:1687 owl:sameAs wd:Q4404680 .
+
+cc_person:1715 owl:sameAs wd:Q1985660 .
+
+cc_person:1723 owl:sameAs wd:Q2498462 .
+
+cc_person:1742 owl:sameAs wd:Q1972194 .
+
+cc_person:1891 owl:sameAs wd:Q315102 .
+
+cc_person:1901 owl:sameAs wd:Q4103951 .
+
+cc_person:1910 owl:sameAs wd:Q699740 .
+
+cc_person:1917 owl:sameAs wd:Q51199 .
+
+cc_person:2005 owl:sameAs wd:Q965352 .
+
+cc_person:2082 owl:sameAs wd:Q213163 .
+
+cc_person:2084 owl:sameAs wd:Q620766 .
+
+cc_person:2113 owl:sameAs wd:Q3624859 .
+
+cc_person:2141 owl:sameAs wd:Q69708 .
+
+cc_person:2175 owl:sameAs wd:Q4059515 .
+
+cc_person:2188 owl:sameAs wd:Q1755821 .
+
+cc_person:2425 owl:sameAs wd:Q4173709 .
+
+cc_person:2428 owl:sameAs wd:Q887801 .
+
+cc_person:2436 owl:sameAs wd:Q1994515 .
+
+cc_person:2510 owl:sameAs wd:Q4513429 .
+
+cc_person:2523 owl:sameAs wd:Q4300491 .
+
+cc_person:2527 owl:sameAs wd:Q697499 .
+
+cc_person:2571 owl:sameAs wd:Q964203 .
+
+cc_person:2822 owl:sameAs wd:Q372277 .
+
+cc_person:3682 owl:sameAs wd:Q2073693 .
+
+cc_person:3684 owl:sameAs wd:Q627347 .
+
+cc_person:3729 owl:sameAs wd:Q613700 .
+
+cc_person:3746 owl:sameAs wd:Q4275370 .
+
+cc_person:3812 owl:sameAs wd:Q4282751 .
+
+cc_person:3814 owl:sameAs wd:Q7239599 .
+
+cc_person:3826 owl:sameAs wd:Q562374 .
+
+cc_person:3838 owl:sameAs wd:Q952189 .
+
+cc_person:3846 owl:sameAs wd:Q4501477 .
+
+cc_person:3850 owl:sameAs wd:Q683884 .
+
+cc_person:3860 owl:sameAs wd:Q1507231 .
+
+cc_person:4019 owl:sameAs wd:Q726390 .
+
+cc_person:4106 owl:sameAs wd:Q161145 .
+
+cc_person:4125 owl:sameAs wd:Q2366448 .
+
+cc_person:4151 owl:sameAs wd:Q3156162 .
+
+cc_person:4629 owl:sameAs wd:Q1661107 .
+
+cc_person:522 owl:sameAs wd:Q1188303 .
+
+cc_person:527 owl:sameAs wd:Q539363 .
+
+cc_person:528 owl:sameAs wd:Q1298354 .
+
+cc_person:529 owl:sameAs wd:Q948370 .
+
+cc_person:530 owl:sameAs wd:Q262098 .
+
+cc_person:531 owl:sameAs wd:Q4112790 .
+
+cc_person:532 owl:sameAs wd:Q2625578 .
+
+cc_person:533 owl:sameAs wd:Q556681 .
+
+cc_person:534 owl:sameAs wd:Q2189722 .
+
+cc_person:536 owl:sameAs wd:Q3156162 .
+
+cc_person:538 owl:sameAs wd:Q372393 .
+
+cc_person:540 owl:sameAs wd:Q2059573 .
+
+cc_person:542 owl:sameAs wd:Q983223 .
+
+cc_person:543 owl:sameAs wd:Q4768 .
+
+cc_person:544 owl:sameAs wd:Q515879 .
+
+cc_person:545 owl:sameAs wd:Q443001 .
+
+cc_person:546 owl:sameAs wd:Q76829 .
+
+cc_person:548 owl:sameAs wd:Q367120 .
+
+cc_person:550 owl:sameAs wd:Q344070 .
+
+cc_person:551 owl:sameAs wd:Q1546710 .
+
+cc_person:552 owl:sameAs wd:Q434561 .
+
+cc_person:553 owl:sameAs wd:Q248597 .
+
+cc_person:554 owl:sameAs wd:Q1653431 .
+
+cc_person:589 owl:sameAs wd:Q181568 .
+
+cc_person:590 owl:sameAs wd:Q1422249 .
+
+cc_person:591 owl:sameAs wd:Q127017 .
+
+cc_person:592 owl:sameAs wd:Q457976 .
+
+cc_person:594 owl:sameAs wd:Q972033 .
+
+cc_person:595 owl:sameAs wd:Q207758 .
+
+cc_person:596 owl:sameAs wd:Q353628 .
+
+cc_person:597 owl:sameAs wd:Q211356 .
+
+cc_person:598 owl:sameAs wd:Q740592 .
+
+cc_person:599 owl:sameAs wd:Q460337 .
+
+cc_person:600 owl:sameAs wd:Q1350341 .
+
+cc_person:602 owl:sameAs wd:Q654547 .
+
+cc_person:603 owl:sameAs wd:Q315237 .
+
+cc_person:605 owl:sameAs wd:Q318393 .
+
+cc_person:606 owl:sameAs wd:Q172911 .
+
+cc_person:607 owl:sameAs wd:Q353008 .
+
+cc_person:608 owl:sameAs wd:Q192544 .
+
+cc_person:609 owl:sameAs wd:Q4428224 .
+
+cc_person:610 owl:sameAs wd:Q110228 .
+
+cc_person:611 owl:sameAs wd:Q777821 .
+
+cc_person:612 owl:sameAs wd:Q193064 .
+
+cc_person:613 owl:sameAs wd:Q450949 .
+
+cc_person:707 owl:sameAs wd:Q1358816 .
+
+cc_person:708 owl:sameAs wd:Q80588 .
+
+cc_person:709 owl:sameAs wd:Q214666 .
+
+cc_person:710 owl:sameAs wd:Q946949 .
+
+cc_person:711 owl:sameAs wd:Q1984317 .
+
+cc_person:712 owl:sameAs wd:Q1095289 .
+
+cc_person:713 owl:sameAs wd:Q1364377 .
+
+cc_person:714 owl:sameAs wd:Q204138 .
+
+cc_person:715 owl:sameAs wd:Q215100 .
+
+cc_person:716 owl:sameAs wd:Q945505 .
+
+cc_person:717 owl:sameAs wd:Q232391 .
+
+cc_person:718 owl:sameAs wd:Q432523 .
+
+cc_person:719 owl:sameAs wd:Q442658 .
+
+cc_person:720 owl:sameAs wd:Q61064 .
+
+cc_person:721 owl:sameAs wd:Q437792 .
+
+cc_person:723 owl:sameAs wd:Q664360 .
+
+cc_person:724 owl:sameAs wd:Q318427 .
+
+cc_person:725 owl:sameAs wd:Q270460 .
+
+cc_person:726 owl:sameAs wd:Q502406 .
+
+cc_person:727 owl:sameAs wd:Q3876947 .
+
+cc_person:728 owl:sameAs wd:Q217128 .
+
+cc_person:729 owl:sameAs wd:Q433067 .
+
+cc_person:732 owl:sameAs wd:Q4245043 .
+
+cc_person:733 owl:sameAs wd:Q313275 .
+
+cc_person:734 owl:sameAs wd:Q38785 .
+
+cc_person:735 owl:sameAs wd:Q130777 .
+
+cc_person:736 owl:sameAs wd:Q1362444 .
+
+cc_person:737 owl:sameAs wd:Q787155 .
+
+cc_person:738 owl:sameAs wd:Q2704611 .
+
+cc_person:741 owl:sameAs wd:Q364226 .
+
+cc_person:742 owl:sameAs wd:Q259594 .
+
+cc_person:743 owl:sameAs wd:Q705062 .
+
+cc_person:744 owl:sameAs wd:Q208993 .
+
+cc_person:745 owl:sameAs wd:Q312631 .
+
+cc_person:746 owl:sameAs wd:Q3623704 .
+
+cc_person:747 owl:sameAs wd:Q538713 .
+
+cc_person:748 owl:sameAs wd:Q310320 .
+
+cc_person:749 owl:sameAs wd:Q466187 .
+
+cc_person:750 owl:sameAs wd:Q93284 .
+
+cc_person:752 owl:sameAs wd:Q593879 .
+
+cc_person:845 owl:sameAs wd:Q1362480 .
+
+cc_person:921 owl:sameAs wd:Q1520898 .
+
+cc_person:964 owl:sameAs wd:Q1030307 .
+
+cc_person:966 owl:sameAs wd:Q4149782 .
+
+cc_person:967 owl:sameAs wd:Q1349819 .
+
+cc_person:974 owl:sameAs wd:Q1653431 .
