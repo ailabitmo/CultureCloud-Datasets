@@ -1,0 +1,2478 @@
+@prefix ecrm: <http://erlangen-crm.org/current/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://uploads0.wikiart.org/images/aleksey-savrasov/dimensions-and-material-of-painting-1868.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/aleksey-savrasov/oaks-on-the-shore-1867.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/alexander-ivanov/head-of-a-man.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/alexander-ivanov/seven-boys-in-colourful-clothes.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/alexey-venetsianov/peasant-children-in-the-field.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/alexey-venetsianov/threshing-floor-1822.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/arkhip-kuindzhi/elbrus-in-the-evening-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/arkhip-kuindzhi/evening-in-ukraine-1878.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/arkhip-kuindzhi/grove.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/boris-kustodiev/portrait-of-the-painter-ivan-bilibin-1901.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/dmitry-levitzky/natalia-borshchova-1776.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/fyodor-vasilyev/clouds-over-hills-study.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/fyodor-vasilyev/morning-1873-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/henryk-siemiradzki/christ-in-the-house-of-martha-and-mary.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/henryk-siemiradzki/phryne-on-the-poseidon-s-celebration-in-eleusis.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ilya-repin/portrait-of-aleksandr-zhirkevich-1891.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ilya-repin/portrait-of-maxim-gorky-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ilya-repin/portrait-of-the-composer-anton-rubinstein-1887.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ilya-repin/portrait-of-vera-repina-the-artist-s-wife-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ilya-repin/sadko-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ilya-repin/what-a-freedom-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/isaac-levitan/autumn-landscape.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/isaac-levitan/bird-cherry-tree.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/isaac-levitan/by-the-riverside.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/isaac-levitan/mist-autumn-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/isaac-levitan/snowbound-garden.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/isaac-levitan/trees-and-bushes.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ivan-aivazovsky/mountain-village-gunib-in-daghestan-view-from-the-east-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ivan-aivazovsky/pushkin-at-the-top-of-the-ai-petri-mountain-at-sunrise-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ivan-aivazovsky/the-tower-of-genoa-1845.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ivan-shishkin/krestovsky-island-shrouded-in-mist.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ivan-shishkin/the-teutoburg-forest-1865.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ivan-shishkin/view-near-dusseldorf-1865.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ivan-shishkin/view-of-valaam-island-kukko-1860-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/ivan-shishkin/willows-lit-up-by-the-sun.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/karl-bryullov/portrait-of-countess-yu-p-samoilova-and-her-ward-amacilia-pacini-leaving-a-ball.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/karl-bryullov/portrait-of-k-a-and-m-ya-narishkin.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/karl-bryullov/portrait-of-s-a-bobrinsky.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/karl-bryullov/portrait-of-the-artist-prince-g-g-gagarin-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/karl-bryullov/portrait-of-the-poet-and-playwright-alexey-tolstoy-as-a-youth.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/karl-bryullov/portrait-of-ye-i-ton-1840.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/female-figure.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/head-of-a-peasant-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/landscape-with-white-house-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/marpha-and-van-ka-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/peasant-woman-with-buckets-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/peasant-woman.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/portrait-1932.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/portrait-of-a-man-1930.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/self-portrait.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/sketch-for-fresco-1907.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/spring-landscape-with-a-cottage.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kazimir-malevich/suprematism-4.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/konstantin-korovin/fish-1916-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/konstantin-korovin/gursuf-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/konstantin-korovin/lilacs-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/konstantin-korovin/portrait-of-nadezhda-komarovskaya-1908.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/konstantin-korovin/spring-1917.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/konstantin-makovsky/tsar-alexei-michaylovich-choosing-a-bride-1887.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/konstantin-somov/lady-taking-off-a-mask.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/konstantin-somov/promenade-after-rain-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/konstantin-somov/self-portrait.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/kuzma-petrov-vodkin/gypsy-1927.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/mstislav-dobuzhinsky/city-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/mstislav-dobuzhinsky/the-swineherd-1917.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/mstislav-dobuzhinsky/wasteland-on-vasilievsky-island-1922.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/nicholas-roerich/behest-of-the-sky-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/nicholas-roerich/earth-paternoster-1907.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/nicholas-roerich/himalayas-blue-mountains-1939-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/nicholas-roerich/old-king-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/nikolai-ge/portrait-of-the-poet-nikolay-nekrasov.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/orest-kiprensky/dmitry-donskoy-after-the-battle-of-kulikovo-detail.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/orest-kiprensky/portrait-of-colonel-evgraf-v-davydov-1809.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/orest-kiprensky/portrait-of-portrait-of-k-i-albrekht-1827.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/pyotr-konchalovsky/esther-1926.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/pyotr-konchalovsky/murmansk-the-polar-night-1937.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/pyotr-konchalovsky/san-gimignano-1912-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/valentin-serov/portrait-of-princess-zinaida-yusupova-1902.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/valentin-serov/portrait-of-sergei-diaghilev-1904.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/valentin-serov/portrait-of-sofia-mikhailovna-botkina-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/vasily-surikov/russian-troops-under-suvorov-crossing-the-alps-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/vasily-surikov/taking-a-snowy-town-1891.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/vasily-surikov/yermak-s-conquest-of-siberia-1895.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/vasily-tropinin/portrait-of-a-a-sapozhnikov-1852.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/vasily-vereshchagin/at-the-door-of-a-mosque-1873.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/vasily-vereshchagin/retired-butler-1888.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/vladimir-borovikovsky/portrait-of-prince-a-b-kurakin-1799.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/vladimir-makovsky/the-doctor-s-waiting-room-1870.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads0.wikiart.org/images/wassily-kandinsky/improvisation-11-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/aleksey-savrasov/early-spring-flood-1868.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/aleksey-savrasov/landscape-with-a-river-and-an-angler-1859.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/alexander-ivanov/ave-maria-1839.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/arkhip-kuindzhi/ai-petri-crimea.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/arkhip-kuindzhi/winter-sunlight-on-the-hoar-frost.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/boris-kustodiev/group-portrait-of-painters-of-the-world-of-art-1920.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/boris-kustodiev/portrait-of-fyodor-chaliapin-1921.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/boris-kustodiev/the-merchant-s-wife-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/dmitry-levitzky/portrait-of-e-n-khruschova-and-princess-e-n-khovanskaya-1773.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/fyodor-vasilyev/apiary.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/fyodor-vasilyev/in-an-oak-grove.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/fyodor-vasilyev/mountains-of-the-crimea-in-autumn.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/fyodor-vasilyev/on-valaam-rocks.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/fyodor-vasilyev/peasant-s-courtyard-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ilya-mashkov/still-life-with-loaves-of-bread-1912.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ilya-repin/church-and-bell-tower-in-chuguyev-1880.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ilya-repin/on-a-turf-bench-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ilya-repin/portrait-of-efim-repin-the-artist-s-father-1879.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ilya-repin/portrait-of-the-art-critic-vladimir-stasov-1883.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ilya-repin/portrait-of-the-art-critic-vladimir-stasov-1900.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ilya-repin/portrait-of-the-lawyer-vladimir-spasovitch-1891.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ilya-repin/portrait-of-the-narratorb-of-the-folk-tales-v-tschegolionkov-1879.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ilya-repin/portrait-of-the-sculptor-e-p-tarhanova-antokolskaya-1893.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/isaac-levitan/early-spring-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/isaac-levitan/footpath-in-a-forest-ferns.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/isaac-levitan/golden-autumn-village-1889.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/isaac-levitan/lake-rus.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/isaac-levitan/meadow-on-the-edge-of-a-forest-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/isaac-levitan/the-lake-eventide.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ivan-aivazovsky/moon-night-1885.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ivan-aivazovsky/the-coast-at-amalfi-1841.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ivan-aivazovsky/view-on-rocky-coast-1845.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ivan-kramskoy/kramskoi-ivan-mina-moiseev-sun-1882.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ivan-kramskoy/portrait-of-art-critic-pavel-kovalevsky-1886.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ivan-kramskoy/portrait-of-the-artist-mikhail-dyakonov-1875.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ivan-shishkin/in-the-grove-1865.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/ivan-shishkin/in-the-grove-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/karl-bryullov/greek-morning-in-myraca(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/karl-bryullov/italian-midday(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/karl-bryullov/portrait-of-princess-ye-p-saltykova.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/karl-bryullov/portrait-of-the-shishmariov-sisters.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/karl-bryullov/silen-satyr-and-bacchanals.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kazimir-malevich/carpenter-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kazimir-malevich/landscape-1908.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kazimir-malevich/landscape-with-yellow-house-1907.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kazimir-malevich/red-house-1932.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kazimir-malevich/the-athlete-of-the-future-1913-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kazimir-malevich/the-athlete-of-the-future-1913-2.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/konstantin-korovin/white-night-in-northern-norway.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/konstantin-somov/portrait-of-anna-ostroumova-lebedeva-1901.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/konstantin-somov/summer-morning.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kuzma-petrov-vodkin/apple-and-lemon-1930.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kuzma-petrov-vodkin/apples-1917.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kuzma-petrov-vodkin/mother-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kuzma-petrov-vodkin/spring-1935.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/kuzma-petrov-vodkin/violin-1918.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/mikhail-nesterov/portrait-of-a-girl-study-for-youth-of-st-sergiy-radonezhsky.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/mikhail-nesterov/prince-alexander-nevsky.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/mikhail-vrubel/portrait-of-n-zabela-1904.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/mikhail-vrubel/portrait-of-n-zabela-vrubel-on-the-edge-of-a-birch-grove-1904.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/mikhail-vrubel/thirty-three-knights-1901.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/mstislav-dobuzhinsky/bridge-in-london(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/mstislav-dobuzhinsky/from-the-life-in-petrograd-in-1920-courtyard-of-the-house-of-arts-1920(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/mstislav-dobuzhinsky/peter-and-paul-fortress-1923.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/mstislav-dobuzhinsky/vitebsk-circus-1923.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/nicholas-roerich/fires-of-victory-sentinel-lights-on-the-towers-in-gobi-1940.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/nicholas-roerich/himalayas-spoors-of-motley-mountains-1943.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/nicholas-roerich/ominous-1901-2.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/nicholas-roerich/partisans-1942.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/nicholas-roerich/rostov-the-great-1903-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/nikolai-ge/portrait-of-yelena-likhachova.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/orest-kiprensky/fortune-teller-with-a-candle-1830.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/orest-kiprensky/portrait-of-alexei-nikolaevich-olenin-1813.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/orest-kiprensky/portrait-of-the-artist-s-father-adam-karlovich-schwalbe-1804.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/pyotr-konchalovsky/portrait-of-p-denike-yuriev-and-a-pokrovsky-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/pyotr-konchalovsky/siena-1912-3.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/valentin-serov/children-sasha-and-yura-serov-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/valentin-serov/portrait-of-lialia-adelaida-simonovich-1880.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-perov/portrait-of-nikolai-kridener-the-artist-s-brother-1856.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-surikov/a-herd-of-horses-in-baraba-steppes.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-surikov/fourth-ecumenical-council-of-chalcedon-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-tropinin/maikov-nicholas-apollonovich-1821.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-tropinin/woman-at-the-window-1841.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-vereshchagin/after-good-luck-1868.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-vereshchagin/cannon-1883.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-vereshchagin/entrance-to-a-temple-in-nikko.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-vereshchagin/japanese-priest-1904.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-vereshchagin/roses-in-ladakh-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vasily-vereshchagin/zyrian-1894.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/victor-borisov-musatov/poppies-in-the-garden-1894.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vladimir-borovikovsky/portrait-of-d-p-troschinsky.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads1.wikiart.org/images/vladimir-borovikovsky/portrait-of-dmitry-levitzky.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/aleksey-savrasov/winter.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/alexander-ivanov/the-appearance-of-christ-to-mary-magdalene.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/alexander-ivanov/three-nude-boys.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/alexander-ivanov/via-appia-at-sunset-1845.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/alexey-venetsianov/peasant-boy-putting-on-bast-sandals-1827.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/alexey-venetsianov/portrait-of-k-i-golovachevsky-and-the-younger-pupils-of-the-academy.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/alexey-venetsianov/self-portrait.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/arkhip-kuindzhi/autumn-impassability-of-roads-1872.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/arkhip-kuindzhi/cloud-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/arkhip-kuindzhi/lake-ladoga-1873.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/arkhip-kuindzhi/the-crimea-the-southern-shore-1887.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/boris-kustodiev/festivities-marking-the-opening-of-the-second-congress-of-the-comintern-and-demonstration-on-1921.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/boris-kustodiev/portrait-of-the-artist-georgi-vereisky-1917.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/dmitry-levitzky/portrait-of-countess-a-s-protasova.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/dmitry-levitzky/portrait-of-countess-ekaterina-vorontsova-as-a-child.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/dmitry-levitzky/portrait-of-countess-praskovya-vorontsova-as-a-child.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/dmitry-levitzky/portrait-of-praskovia-repnina-1781.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/fyodor-vasilyev/the-shore-cloudy-day-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/fyodor-vasilyev/village.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ilya-mashkov/still-life-with-brocade-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ilya-repin/negress-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ilya-repin/portrait-of-ivan-stepanovich-panov-1867.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ilya-repin/portrait-of-minister-of-ways-of-communication-and-member-of-state-council-prince-mikhail-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ilya-repin/portrait-of-sidor-shavrov-1892.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ilya-repin/portrait-of-the-composer-alexander-glazunov-1887.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/isaac-levitan/at-the-birch-grove.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/isaac-levitan/autumn-landscape-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/isaac-levitan/autumn-landscape-3.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/isaac-levitan/ostankino.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ivan-aivazovsky/lunar-night-1849.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ivan-aivazovsky/tempest-by-cape-aiya-1875.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ivan-kramskoy/portrait-of-ekaterina-kornilova-1880.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ivan-kramskoy/portrait-of-feodor-petrushevsky-1882.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ivan-kramskoy/portrait-of-the-artist-alexander-sokolov-1883.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ivan-kramskoy/portrait-of-the-sculptor-mark-antokolsky-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ivan-kramskoy/portrait-of-theodora-saltykova-the-painter-s-mother-in-law-1875.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ivan-shishkin/mixed-forest-shmetsk-near-narva-1888.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ivan-shishkin/oaks-1887.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/ivan-shishkin/pine-forest-1885-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/karl-bryullov/portrait-of-captain-a-m-kostinich(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/karl-bryullov/portrait-of-grand-duchess-elena-pavlovna-and-her-daughter-maria.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/karl-bryullov/portrait-of-princess-z-a-volkonskaya.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/bad-premonition.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/fields.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/flowergirl-1930.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/head-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/head-of-peasant.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/portrait-of-a-woman-1934.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/portrait-of-a-youth-1933.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/reaper.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/speakers-on-tribune-1919.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/unemployed-girl.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kazimir-malevich/woodcutter-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/konstantin-korovin/a-street-in-vichy-1911.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/konstantin-makovsky/portrait-of-count-sergei-grigoriyevich-stroganov.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/konstantin-somov/self-portrait-2.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kuzma-petrov-vodkin/boys-game-boy-1911(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kuzma-petrov-vodkin/fantasy-1925.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kuzma-petrov-vodkin/herring-1918.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kuzma-petrov-vodkin/morning-1917.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/kuzma-petrov-vodkin/paris-notre-dame-1924.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/mikhail-vrubel/artist-s-son-1901.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/mikhail-vrubel/the-six-winged-seraph-1904.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/mstislav-dobuzhinsky/kitchen-garden-on-obvodny-channel-1921.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/mstislav-dobuzhinsky/naples-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/mstislav-dobuzhinsky/the-provinces-in-the-1830s(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/nicholas-roerich/alexander-nevsky-striking-birder-jarl-1904.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/nicholas-roerich/ambassador-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/nicholas-roerich/giantess-krimgerd-1915-2.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/nicholas-roerich/krishna-magic-flute-1938.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/nicholas-roerich/mstislav-s-duel-with-rededia-1943.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/nikolai-ge/the-transportation-of-marble-at-carrara.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/orest-kiprensky/dmitry-donskoy-after-the-battle-of-kulikovo-detail-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/orest-kiprensky/portrait-of-aleksey-ivanovich-korsakov-1808.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/orest-kiprensky/portrait-of-elizabeth-olenina-1813.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/orest-kiprensky/portrait-of-the-princess-a-scherbatova-1808.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/pyotr-konchalovsky/at-the-ilmen-lake-1928.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/pyotr-konchalovsky/balaklava-the-window-the-grapes-on-the-table-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/pyotr-konchalovsky/cassis-1913-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/pyotr-konchalovsky/chest-and-pottery-1919.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/pyotr-konchalovsky/novgorod-detinets-1925.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/pyotr-konchalovsky/still-life-white-partridge-1953.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/valentin-serov/peter-ii-and-princess-elizabeth-petrovna-riding-to-hounds-1900.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/valentin-serov/portrait-of-count-feliks-feliksovich-sumarokov-yelstov-later-prince-yusupov-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/valentin-serov/portrait-of-mara-oliv-1895.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/vasily-perov/girl-with-a-pitcher.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/vasily-polenov/what-people-think-about-me.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/vasily-surikov/stepan-razin-1906.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/vasily-vereshchagin/sinto-temple-in-nikko.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/vasily-vereshchagin/the-mount-kazbek-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/viktor-vasnetsov/portrait-of-victor-goshkevich-the-founder-of-the-historic-aarchaeological-museum-in-kherson-1887.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/viktor-vasnetsov/seraphim-1896-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/vladimir-borovikovsky/portrait-of-a-g-and-a-a-lobanov-rostovsky-1814.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads2.wikiart.org/images/vladimir-borovikovsky/portrait-of-princess-n-i-kurakin-1795.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/aleksey-savrasov/sundown-over-a-marsh-1871.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/alexander-ivanov/a-tree-over-water-in-the-vicinity-of-castel-gandolfo.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/alexey-venetsianov/morning-of-the-landlady.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/arkhip-kuindzhi/autumn-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/arkhip-kuindzhi/moonlight-night-on-the-dnieper-1880.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/arkhip-kuindzhi/sunset-2.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/boris-kustodiev/merchant-s-woman-with-a-mirror-1920.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/boris-kustodiev/the-khorovod-1912.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/dmitry-levitzky/catherine-ii-1782.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/dmitry-levitzky/portrait-of-alexander-lanskoy-aide-de-camp-to-the-empress-1782.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/dmitry-levitzky/portrait-of-an-unknown-man.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/dmitry-levitzky/portrait-of-countess-n-f-vorontsova.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/dmitry-levitzky/portrait-of-ekaterina-nelidova-1773.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/fyodor-vasilyev/before-a-thunderstorm-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/fyodor-vasilyev/landscape-with-peasant-s-huts-and-pond-near-st-petersburg-1871.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/fyodor-vasilyev/on-the-river-calm.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ilya-mashkov/urban-landscape-1911.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ilya-repin/apples-and-leaves-1879.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ilya-repin/ceremonial-meeting-of-the-state-council-on-may-7-1901-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ilya-repin/portrait-of-the-chello-player-alexander-verzhbilovich-1895.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ilya-repin/portrait-of-vera-shevtsova-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ilya-repin/raising-of-jairus-daughter-1871.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ilya-repin/st-nicholas-saves-three-innocents-from-death-1888.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ilya-repin/tsarevna-sophia-alexeevna-in-the-novodevitchy-convent-1879.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/isaac-levitan/autumn-landscape-with-church.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/isaac-levitan/moonlit-night-a-village-1897.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ivan-aivazovsky/explosion-of-arkadion-monastery-on-crete-in-1866-1867.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ivan-aivazovsky/malta-valetto-harbour-1844.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ivan-aivazovsky/portrait-of-i-lazarev-1851.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ivan-aivazovsky/sea-view-by-moonlight-1878.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ivan-aivazovsky/the-ships-on-rough-sea-sunrise-1871.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ivan-kramskoy/portrait-of-the-astronomer-otto-struve-vasilyevich-1886.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/ivan-shishkin/winte-1890.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/karl-bryullov/girl-gathering-grapes-in-a-suburb-of-naples(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/karl-bryullov/portrait-of-alexander-bruloff-1827(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/karl-bryullov/portrait-of-s-a-sobolevsky-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/karl-bryullov/portrait-of-v-a-kornilov-on-board-the-brig-themistocles.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/karl-bryullov/the-last-day-of-pompeii-1833.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kazimir-malevich/bathers.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kazimir-malevich/black-cross-1923.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kazimir-malevich/composition-1932.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kazimir-malevich/girl-figure-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kazimir-malevich/portrait-of-artist-s-daughter-1934.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kazimir-malevich/portrait-of-artist-s-wife-n-a-malevich-1933.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kazimir-malevich/summer-landscape.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kazimir-malevich/suprematism-1916.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kazimir-malevich/triumph-of-the-skies-1907.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kazimir-malevich/two-male-figures.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/kuzma-petrov-vodkin/portrait-of-anna-akhmatova-1922.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mikhail-nesterov/elegy-blind-musician-1928.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mikhail-nesterov/st-george-and-dragon-1900.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mikhail-nesterov/the-philosophers-portrait-of-sergei-bulgakov-and-pavel-florenskiy-1917.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mikhail-vrubel/head-of-demon-1890.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mikhail-vrubel/self-portrait-1882.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mikhail-vrubel/self-portrait-1905.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mstislav-dobuzhinsky/dredger-1923.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mstislav-dobuzhinsky/from-the-life-in-petrograd-in-1920-1920.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mstislav-dobuzhinsky/omnibus-in-vilno-1907.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mstislav-dobuzhinsky/silence-1918.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mstislav-dobuzhinsky/street-in-london-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/mstislav-dobuzhinsky/vitebsk-1919.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/nicholas-roerich/battle-of-kerzhenets-1911.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/nicholas-roerich/lights-on-the-ganges-1947.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/nicholas-roerich/mikula-selyaninovich-1909.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/nikolai-ge/portrait-of-the-author-mikhail-saltykov-shchedrin.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/orest-kiprensky/portrait-of-vasily-alekseevich-perovsky-1809.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/pyotr-konchalovsky/at-midday-1947.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/pyotr-konchalovsky/still-life-samovar-1917.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/pyotr-konchalovsky/still-life-table-books-and-the-pipes-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/pyotr-konchalovsky/still-life-with-a-coffeepot-1919.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/valentin-serov/portrait-of-adelaida-simonovich-1889.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/valentin-serov/portrait-of-the-composer-alexander-serov-1889.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/valentin-serov/self-portrait-1901.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vasily-perov/head-of-a-kirghiz-sketch-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vasily-perov/head-of-a-kirgiz-convict-1873.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vasily-surikov/portrait-of-woman-with-yellow-background-1911.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vasily-surikov/salome-brings-head-of-saint-john-the-baptist-to-her-mother-herodias-1872.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vasily-tropinin/karamzin.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vasily-tropinin/portrait-of-e-p-protasyeva.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vasily-vereshchagin/on-the-bridge.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/victor-borisov-musatov/spring-sun.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/victor-borisov-musatov/walk-at-sunset-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vladimir-borovikovsky/paul-i-1800.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vladimir-borovikovsky/portrait-of-f-a-borovsky-1799.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vladimir-makovsky/empress-maria-feodorovna.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/vladimir-makovsky/the-collapse-of-a-bank-study-1880.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads3.wikiart.org/images/wassily-kandinsky/black-spot-1912.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/aleksey-savrasov/the-road-in-the-woods-1871.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/alexey-venetsianov/bather.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/alexey-venetsianov/girl-with-burak.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/alexey-venetsianov/reaper.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/arkhip-kuindzhi/a-birch-grove-1901.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/arkhip-kuindzhi/rainbow-3.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/arkhip-kuindzhi/the-sea-the-crimea.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/arkhip-kuindzhi/the-sea-with-a-sailing-ship.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/boris-kustodiev/russian-venus-1926.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/boris-kustodiev/self-portrait-1905.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/dmitry-levitzky/alexander-khrapovitsky-1781.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/fyodor-vasilyev/eriklik-the-fountain-crimea.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/henryk-siemiradzki/entrance-of-christ-into-jerusalem.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/henryk-siemiradzki/phryne-at-the-poseidonia-in-eleusis-detail.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/henryk-siemiradzki/roman-orgy-in-the-time-of-caesars.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ilya-repin/ortrait-of-vice-minister-of-the-interior-cavalry-general-and-member-of-state-council-count-1902.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ilya-repin/portrait-of-music-editor-and-patron-mitrofan-petrovich-belyayev-1886.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ilya-repin/storm-on-the-volga-1891.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ilya-repin/two-woman-1878.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/isaac-levitan/lake-barns-at-the-forest-edge.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/isaac-levitan/late-autumn.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/isaac-levitan/sheaves-and-a-village-beyond-the-river.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ivan-aivazovsky/meeting-of-the-brig-mercury-with-the-russian-squadron-after-the-defeat-of-two-turkish-1848.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ivan-aivazovsky/the-great-roads-at-kronstadt-1836(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ivan-aivazovsky/the-roads-at-kronstadt-1840.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ivan-kramskoy/portarait-of-philosopher-vladimir-solovyov-1885.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ivan-kramskoy/portrait-of-the-photographer-andrey-denier-1883.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ivan-shishkin/autumn-1892.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ivan-shishkin/gathering-storm-1884.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ivan-shishkin/in-the-birch-tree-forest-1883.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/ivan-shishkin/mast-tree-grove-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/karl-bryullov/confession-of-an-italian-woman-1830(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/karl-bryullov/portrait-of-the-architect-and-painter-alexander-brulloff.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/karl-bryullov/portrait-of-the-architect-k-a-ton-1827.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/karl-bryullov/portrait-of-u-m-smirnova-1840.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/kazimir-malevich/black-square-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/kazimir-malevich/boy-1932.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/kazimir-malevich/head-of-peasant-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/kazimir-malevich/head-of-peasant-2.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/kazimir-malevich/in-the-baths-1911.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/kazimir-malevich/landscape-with-five-houses.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/kazimir-malevich/peasant-in-the-fields-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/konstantin-korovin/fedor-shalaypin-as-demon-in-rubinstein-s-opera-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/konstantin-makovsky/fair-booths-on-admiralty-square-st-petersburg-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/konstantin-somov/rest-after-a-walk.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/kuzma-petrov-vodkin/death-of-commissar-1928.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/kuzma-petrov-vodkin/morning-still-life-1918.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/kuzma-petrov-vodkin/samarkand-1921.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/mikhail-nesterov/entombment-of-alexander-nevsky-1900.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/mikhail-nesterov/to-blagovest-1895.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/mikhail-vrubel/portrait-of-valentina-usoltseva-wife-of-the-doctor-usoltsev-1905.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/mikhail-vrubel/sadko-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/mstislav-dobuzhinsky/courtyard-in-st-petersburg-1920.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/mstislav-dobuzhinsky/finland-a-street-in-lovisa-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/mstislav-dobuzhinsky/rooftops-1901.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/mstislav-dobuzhinsky/summer-garden-in-winter-1922(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/mstislav-dobuzhinsky/viaduct-in-london-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/nicholas-roerich/battle-in-the-heavens-1912.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/nicholas-roerich/defender-cloud-archer-1937.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/nicholas-roerich/father-frost-1912.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/nicholas-roerich/lake-yam-tso-1937.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/nicholas-roerich/mill-in-the-mountains-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/nicholas-roerich/novgorod-cemetery-northern-rus-1943.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/nikolai-ge/christ-and-the-disciples-going-out-into-the-garden-of-gethsemane-after-the-last-supper.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/orest-kiprensky/madonna-with-the-child-1809.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/orest-kiprensky/portrait-of-a-dmitriyev-mamonov-1815.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/orest-kiprensky/portrait-of-m-a-kikina-1816.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/orest-kiprensky/portrait-of-n-kochubey-1813.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/orest-kiprensky/self-portrait-1809.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/pyotr-konchalovsky/family-portrait-against-chinese-panel-1911.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/pyotr-konchalovsky/sorrento-grave-of-sylvester-shchedrin-1924.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/pyotr-konchalovsky/still-life-apples-in-a-sieve-1955.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/pyotr-konchalovsky/still-life-it-s-time-for-tea-1946.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/valentin-serov/peasant-woman-in-a-cart-1896.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/valentin-serov/portrait-of-anna-benois-1908.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/valentin-serov/portrait-of-princess-olga-orlova-1911.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/valentin-serov/portrait-of-yelena-oliv-1905.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/valentin-serov/set-design-for-the-opera-judith-by-alexander-serov-1907.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-surikov/big-masquerade-in-1772-on-the-streets-of-moscow-with-the-participation-of-peter-i-and-princer-i-1900.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-surikov/self-portrait-man-with-hurt-hand-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-surikov/siberian-woman-1909.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-tropinin/kireyevsk-e-v-1839.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-tropinin/self-portrait-with-brushes-and-a-palette-against-a-window-facing-the-kremlin-1844.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-vereshchagin/in-a-boat-1904.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-vereshchagin/interior-of-the-wooden-church-of-st-peter-and-st-paul-in-puchug-1894.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-vereshchagin/japanese-woman.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-vereshchagin/ruins-in-chuguchak-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-vereshchagin/the-northern-dvina-1894.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads4.wikiart.org/images/vasily-vereshchagin/the-sale-of-the-child-slave-1872.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/aleksey-savrasov/oaks-1855.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/aleksey-savrasov/type-in-the-swiss-alps-mount-small-ruhen-1862.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/alexander-ivanov/naked-boy.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/alexey-venetsianov/bathers.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/alexey-venetsianov/portrait-of-the-state-chancellor-of-the-internal-affairs-prince-victor-pavlovich-kochubey-in-1834.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/alexey-venetsianov/reapers.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/alexey-venetsianov/shelling-of-beet.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/arkhip-kuindzhi/moonlight-in-a-forest-winter.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/arkhip-kuindzhi/red-sunset.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/arkhip-kuindzhi/winter-spots-of-light-on-cottage-roof.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/boris-kustodiev/portrait-of-yulia-yevstafievna-kustodieva-the-artist-s-wife-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/dmitry-levitzky/portrait-of-alexander-kokorinov-director-and-first-rector-of-the-academy-of-arts-in-st-1769.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/dmitry-levitzky/portrait-of-fedor-orlov-1785.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/dmitry-levitzky/portrait-of-g-i-alymova-1773.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/dmitry-levitzky/portrait-of-princesses-davydova-and-rzhevskaya.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/dmitry-levitzky/portrait-of-v-i-mitrofanov-and-m-a-mitrofanova.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/fyodor-vasilyev/abandoned-mill-1873.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/fyodor-vasilyev/bridge-over-a-brook.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/fyodor-vasilyev/lombardy-poplars-on-the-bank-of-a-lake-evening.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/fyodor-vasilyev/water-mill-on-a-mountain-river-crimea.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/henryk-siemiradzki/baptism-of-chris.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/ilya-repin/job-and-his-friends-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/ilya-repin/portrait-of-composer-and-chemist-aleksander-porfirievich-borodin-1888.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/ilya-repin/portrait-of-countess-natalia-golovina-1896.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/ilya-repin/portrait-of-nadezhda-stasova-1884.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/ilya-repin/portrait-of-polixena-stasova-1879.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/ilya-repin/send-off-of-recruit-1879.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/isaac-levitan/a-creek-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/isaac-levitan/overgrown-pond-1887-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/isaac-levitan/silence-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/ivan-aivazovsky/storm-1889.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/ivan-kramskoy/portrait-of-yakov-golubev-vice-director-of-the-tax-department-1884.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/ivan-shishkin/grove-by-the-pond-preobrazhenskoye-1896.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/ivan-shishkin/promenading-in-the-forest-1869.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/karl-bryullov/death-of-inessa-de-castro-morganatic-wife-of-portuguese-infant-don-pedro(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/karl-bryullov/genius-of-art-1820(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/bathers-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/blue-portrait-1930.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/boulevard.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/carpenter.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/girl-1932.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/on-the-boulevard-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/portrait-of-woman-in-yellow-hat-1930.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/praying-woman-1912.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/self-portrait-1933.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/suprematism-1915-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/suprematism-1916-2.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kazimir-malevich/two-male-figures-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/konstantin-bogaevsky/tropical-landscape-1906.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/konstantin-korovin/autumn-on-bridge.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/konstantin-korovin/portrait-of-s-mamontov-in-a-theatre-costume.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/konstantin-makovsky/the-handing-over-of-the-sacred-carpet-in-cairo-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/konstantin-somov/before-sunset-1900.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/konstantin-somov/landscape-in-the-evening-martyshkino.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/konstantin-somov/portrait-of-baroness-alexandra-nolde.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/konstantin-somov/skating-rink-in-winter-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/kuzma-petrov-vodkin/1919-alarm-1934.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/mikhail-nesterov/self-portrait-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/mikhail-nesterov/the-taking-of-the-veil-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/mikhail-vrubel/feasting-romans-1883.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/mikhail-vrubel/the-vision-of-the-prophet-ezekiel-1906.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/mstislav-dobuzhinsky/channel-in-haarlem-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/mstislav-dobuzhinsky/monument-to-peter-the-great-1923.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/mstislav-dobuzhinsky/the-district-court-1923.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/mstislav-dobuzhinsky/winter-in-the-city-1904.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/nicholas-roerich/brahmaputra-1946-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/nicholas-roerich/himalayas-gloomy-cliff-1943.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/nicholas-roerich/ilya-muromets-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/nicholas-roerich/in-the-castle-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/nicholas-roerich/procopius-the-righteous-is-praying-of-unknown-navigating-1914-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/nicholas-roerich/swirling-glow-1945.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/orest-kiprensky/portrait-of-anna-furman-1816.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/orest-kiprensky/young-gardener-1817.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/pyotr-konchalovsky/still-life-table-with-fruits-and-yellow-flowers-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/pyotr-konchalovsky/the-model-in-a-chair-1918.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/valentin-serov/bathing-a-horse-1905.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/valentin-serov/portrait-of-alexander-turchaninov-1906.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/valentin-serov/portrait-of-ida-lvovna-rubinstein-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/valentin-serov/portrait-of-prince-felix-yussupov-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/valentin-serov/self-portrait-1885-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/vasily-surikov/peter-i-drags-ships-from-the-onega-bay-in-lake-onega-in-1702-1872.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/vasily-tropinin/old-woman-with-a-hen-portrait-of-the-artist-s-wife-1856.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/vasily-vereshchagin/japanese-beggar.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/victor-borisov-musatov/self-portrait-with-sister-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads5.wikiart.org/images/vladimir-borovikovsky/portrait-of-ye-a-arkharova-1820.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/aleksey-savrasov/thaw-yaroslavl-1874.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/alexey-venetsianov/a-peasant-girl-with-a-calf.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/alexey-venetsianov/portrait-of-artist-s-daughters-alexandra-and-felisata.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/alexey-venetsianov/sleeping-herd-boy.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/boris-kustodiev/abbess-1908.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/boris-kustodiev/lilacs-1906.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/boris-kustodiev/portrait-of-an-art-historian-and-restorer-alexander-anisimov-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/boris-kustodiev/portrait-of-ivan-yershov-1922.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/boris-kustodiev/portrait-of-rene-ivanovna-notgaft-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/boris-kustodiev/strike-1906.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/dmitry-levitzky/portrait-of-a-p-levshina-1775.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/dmitry-levitzky/portrait-of-catherine-ii-as-legislator-in-the-temple-of-the-goddess-of-justice-1783.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/dmitry-levitzky/portrait-of-countess-anna-vorontsova-as-a-child.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/dmitry-levitzky/portrait-of-greate-russian-empress-catherine-ii.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/dmitry-levitzky/portrait-of-nikolay-lvov-1789.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/fyodor-vasilyev/barges-near-the-bank.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/fyodor-vasilyev/morning-in-a-village.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/fyodor-vasilyev/near-a-church-valaam.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/henryk-siemiradzki/christ-and-sinner.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ilya-repin/diogenes-and-the-boy-1867.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ilya-repin/haulers-on-the-volga-1873.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ilya-repin/portrait-of-countess-sophia-vladimirovna-panina-1909.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ilya-repin/portrait-of-the-artist-arkhip-kuindzhi-1877.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ilya-repin/portrait-of-the-singer-alexandra-molas-1883.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ilya-repin/portrait-of-vera-repinahe-the-artist-s-daughter-1886.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ilya-repin/woman-study-1875.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/isaac-levitan/house-with-broom-trees.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/isaac-levitan/late-autumn-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/isaac-levitan/springtime-the-last-snow-1895-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/isaac-levitan/the-twilight-moon-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/isaac-levitan/valley-of-the-river-autumn-1896.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ivan-aivazovsky/russian-squadron-on-the-raid-of-sevastopol-1846.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ivan-aivazovsky/view-of-moscow-from-sparrow-hills-1851.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ivan-aivazovsky/view-of-the-sea-from-the-mountains-at-sunset-crimea-1864.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ivan-kramskoy/portrait-of-alexei-suvorin-1881.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ivan-kramskoy/portrait-of-an-unknown-man-1875.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ivan-kramskoy/portrait-of-sonya-kramskaya-the-artist-s-daughter.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ivan-kramskoy/portrait-of-the-artist-vasily-perov-1881.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/ivan-shishkin/on-the-shore-of-the-gulf-of-finland-udrias-near-narva-1889.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/karl-bryullov/an-interrupted-date(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/karl-bryullov/italian-woman-blowing-a-kiss(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/karl-bryullov/pheb-in-his-chariot(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/karl-bryullov/portrait-of-princess-ye-p-saltykova-1835.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/karl-bryullov/portrait-of-singer-a-ya-petrova.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/karl-bryullov/ruins-in-park.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/karl-bryullov/satyr-and-bacchante-bacchanalia.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/kazimir-malevich/girl-in-the-country.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/kazimir-malevich/harvesting.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/kazimir-malevich/not_detected_219730.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/kazimir-malevich/peasants-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/kazimir-malevich/portrait-of-a-woman.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/kazimir-malevich/red-figure.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/kazimir-malevich/still-life.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/kazimir-malevich/three-woman-figures.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/kazimir-malevich/torso-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/kazimir-malevich/woman-s-head-in-profile-1912.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/konstantin-bogaevsky/classical-landscape-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/konstantin-korovin/portrait-of-chaliapin-1911.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/konstantin-somov/in-the-bosquet-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/konstantin-somov/lady-and-harlequin-fireworks.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/mikhail-nesterov/portrait-of-elizaveta-kruglikova-1939.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/mikhail-nesterov/portrait-of-ivan-pavlov-1930.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/mikhail-nesterov/portrait-of-olga-nesterova-woman-in-a-riding-habit-1906.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/mikhail-vrubel/bogatyr-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/mikhail-vrubel/nadezhda-zabela-vrubel-as-princess-volkhova-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/mikhail-vrubel/sadko-1899-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/mikhail-vrubel/the-flying-demon-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/mstislav-dobuzhinsky/petersburg-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/mstislav-dobuzhinsky/petersburg-the-obvodny-canal-1902.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/nicholas-roerich/boris-and-gleb-1942.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/nicholas-roerich/boyan-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/nicholas-roerich/crypt-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/nicholas-roerich/kiss-the-earth-1912.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/nicholas-roerich/ukrainian-landscape.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/pyotr-konchalovsky/bathing-boys-1920.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/pyotr-konchalovsky/matador-manuel-gartha-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/pyotr-konchalovsky/novgorodians-1925.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/pyotr-konchalovsky/portrait-of-a-hero-of-the-soviet-union-pilot-a-b-yumashev-1941.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/pyotr-konchalovsky/still-life-tray-and-vegetables-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/valentin-serov/portrait-of-count-nikolay-sumarokov-elstone-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/valentin-serov/portrait-of-dmitry-stasov-1908.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/valentin-serov/portrait-of-grand-duchess-olga-alexandrovna-1893.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/valentin-serov/portrait-of-maria-botkina-1905.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/valentin-serov/portrait-of-p-semenov-tien-shansky-1905.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/valentin-serov/portrait-of-the-composer-alexander-glazunov-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/vasily-perov/portrait-of-the-author-ivan-turgenev-1872.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/vasily-perov/solitary-guitarist-1865.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/vasily-surikov/first-ecumenical-council-of-nicaea-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/vasily-surikov/second-ecumenical-council-of-constantinople-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/vasily-surikov/the-old-gardener-1882.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/vasily-surikov/view-of-krasnoyarsk-from-knoll.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/victor-borisov-musatov/lady-embroidering-1901.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads6.wikiart.org/images/vladimir-makovsky/the-condemned-1879.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/aleksey-savrasov/flooding-of-the-volga-river-near-yaroslavl-1871.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/aleksey-savrasov/monastery-gates-1875.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/alexander-ivanov/a-bridegroom-buying-a-ring-for-his-fiancee-1839.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/alexey-venetsianov/a-peasant-woman-with-a-rake.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/alexey-venetsianov/a-peasant-woman-with-scythe-and-rake.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/alexey-venetsianov/first-steps-peasant-woman-with-child.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/alexey-venetsianov/girl-in-a-kerchief.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/arkhip-kuindzhi/cypresses-on-a-seashore-the-crimea-1887.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/arkhip-kuindzhi/elbrus-in-the-evening.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/arkhip-kuindzhi/sunset-in-the-winter-a-coast-of-the-sea.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/arkhip-kuindzhi/view-of-the-kremlin-from-the-zamoskvorechye-district-1882.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/boris-kustodiev/a-balloon-seller-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/boris-kustodiev/morning-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/boris-kustodiev/portrait-of-the-artist-igor-grabar-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/boris-kustodiev/tsar-nicholas-ii-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/dmitry-levitzky/catherine-ii.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/dmitry-levitzky/portrait-of-an-unknown-lady-in-a-pink-dress-1774.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/dmitry-levitzky/portrait-of-countess-maria-vorontsova-as-a-child.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/fyodor-vasilyev/dawn-in-st-petersburg.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/fyodor-vasilyev/morning-1873.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/fyodor-vasilyev/near-a-watering-place.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/fyodor-vasilyev/rapid-stream.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/henryk-siemiradzki/phryne-on-the-poseidon-s-celebration-in-eleusis-detail.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-mashkov/portrait-of-a-boy-in-a-coloured-shirt-1909.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-repin/demonstration-on-october-17-1905-sketch-1906.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-repin/portrait-of-maria-artsybasheva-1880.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-repin/portrait-of-nicholas-ii-the-last-russian-emperor-1895.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-repin/portrait-of-nicholas-ii-the-last-russian-emperor-1896.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-repin/portrait-of-sophia-dragomirova-1889.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-repin/portrait-of-the-author-ieronim-yasinsky-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-repin/portrait-of-the-composer-nikolay-rymsky-korsakov-1893.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-repin/portrait-of-the-surgeon-nikolay-pirogov-1881.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-repin/portrait-of-vladimir-bekhterev-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ilya-repin/the-concert-in-the-assembly-of-nobility-1888.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/isaac-levitan/haymaking-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/isaac-levitan/lake-como-1894.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/isaac-levitan/seashore-in-crimea-1886.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/isaac-levitan/seashore-in-crimea-1890.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/isaac-levitan/the-gully-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/isaac-levitan/the-lake-barns-at-the-edge-of-forest-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ivan-aivazovsky/windmill-on-the-sea-coast-1837.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ivan-kramskoy/laughter-hail-king-of-judah-1882.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ivan-shishkin/beech-forest-in-switzerland-1863.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ivan-shishkin/coniferous-forest-sunny-day-1895.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ivan-shishkin/the-path-through-the-woods-1880-oil-on-canvas-1880.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/ivan-shishkin/view-of-valaam-island-kukko-1860.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/karl-bryullov/italian-expecting-a-child-looking-at-his-shirt-her-husband-cobble-together-a-cradle(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/karl-bryullov/nun-s-dream(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/karl-bryullov/sweet-waters-near-constantinople.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/laundress-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/on-the-cemetery-1911.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/on-vacation.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/portrait-of-ivan-kliun-1913-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/portrait-of-man-1933.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/prayer-1907.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/reaper-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/rest-society-in-top-hats-1908.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/river-in-forest-1908.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/singer-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/spring-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/spring-garden-in-blossom-1904.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/turkish-soldier-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kazimir-malevich/two-figures.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/konstantin-korovin/portrait-of-an-officer-1916.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/konstantin-korovin/self-portrait-1938.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/konstantin-somov/enchantment.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/konstantin-somov/evening-shadows-1917.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/konstantin-somov/landscape-with-a-rainbow-1919.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kuzma-petrov-vodkin/head-of-the-boy-uzbek-1921.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kuzma-petrov-vodkin/in-shuvalovo-1926.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kuzma-petrov-vodkin/shah-i-zinda-1921.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/kuzma-petrov-vodkin/the-girl-on-the-beach-1925.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/mikhail-nesterov/thinker-portrait-of-philisopher-ivan-ilyin-1921.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/mikhail-vrubel/self-portrait.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/mstislav-dobuzhinsky/portrait-of-the-artist-s-daughter-vera-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/mstislav-dobuzhinsky/saint-isaac-s-cathedral-under-the-snow-1922.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/nicholas-roerich/a-tree-1944.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/nicholas-roerich/ellora-1938.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/nicholas-roerich/himalayas-mountains-lit-by-sunset-1941.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/nicholas-roerich/people-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/nicholas-roerich/three-pleasures-1916.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/nicholas-roerich/tower-of-terror-1939.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/orest-kiprensky/dmitry-donskoy-after-the-battle-of-kulikovo-1805.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/orest-kiprensky/portrait-of-a-tamilov.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/orest-kiprensky/portrait-of-countess-sophia-alexandrovna-golenischev-kutuzova-1829.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/orest-kiprensky/portrait-of-ekaterina-avdulina.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/orest-kiprensky/portrait-of-the-sculptor-bertel-thorvaldsen-1831.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/pyotr-konchalovsky/a-n-tolstoy-visiting-the-artist-1941.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/pyotr-konchalovsky/still-life-wildflowers-1938.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/valentin-serov/anna-pavlova-in-the-ballet-sylphyde-1909.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/valentin-serov/horses-on-a-shore-1905.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/valentin-serov/portrait-of-countess-varvara-musina-pushkina-1895.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/valentin-serov/sketch-for-the-design-of-a-curtain-for-the-ballet-scheherazade-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/vasily-perov/arrival-of-a-new-governess-in-a-merchant-house-1866.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/vasily-polenov/and-there-was.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/vasily-surikov/third-ecumenical-council-of-ephesus-1876.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/vasily-tropinin/portrait-of-a-i-tropinina-1820.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/vasily-vereshchagin/before-the-confession-at-the-entrance-to-a-village-church-1888.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/victor-borisov-musatov/a-walk-in-the-park-1904.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/victor-borisov-musatov/bluebells-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/victor-borisov-musatov/three-ladies-on-the-terrace-1903.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads7.wikiart.org/images/vladimir-makovsky/the-doss-house-1889.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/aleksey-savrasov/rainbow-1875.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/alexey-venetsianov/cartomancy.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/arkhip-kuindzhi/oaks.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/arkhip-kuindzhi/sunset-effect.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/arkhip-kuindzhi/view-of-the-moskvoretsky-bridge-the-kremlin-and-the-pokrovsky-cathedral-1882.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/boris-kustodiev/abbess-1908-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/boris-kustodiev/portrait-of-e-kustodieva-artist-s-mother.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/boris-kustodiev/portrait-of-i-b-kustodieva-1906.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/boris-kustodiev/portrait-of-nikolay-rerich-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/boris-kustodiev/the-merchant-s-wife-at-tea-1918.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/dmitry-levitzky/portrait-of-e-a-vorontsova-1783.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/dmitry-levitzky/portrait-of-n-y-levitzkaya-artist-s-wife.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/fyodor-vasilyev/cumulus-study.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/fyodor-vasilyev/on-the-river-windy-day.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/fyodor-vasilyev/self-portrait.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/fyodor-vasilyev/swamp-in-a-forest-mist.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/fyodor-vasilyev/tide.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/henryk-siemiradzki/chopin-performing-in-the-guest-hall-of-anton-radziville-in-berlin-in-1829.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/henryk-siemiradzki/prince-alexander-nevsky-in-gold-horde.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ilya-repin/preparation-for-the-examination-1864.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ilya-repin/self-portrait-1920.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ilya-repin/the-reply-of-the-zaporozhian-cossacks-to-sultan-mahmoud-iv-1891.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/isaac-levitan/cloudy-day-1895.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/isaac-levitan/landscape-with-buildings.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ivan-aivazovsky/seashore-1843.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ivan-aivazovsky/sveaborg-1844.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ivan-aivazovsky/view-of-constantinople-by-moonlight-1846.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ivan-kramskoy/outraged-jewish-boy-1874.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ivan-kramskoy/the-miller-1873.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ivan-shishkin/forest-landscape-with-herons-1870.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ivan-shishkin/gathering-mushrooms-1870.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ivan-shishkin/landscape-with-a-hunter-valaam-island-1867.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ivan-shishkin/the-mordvinovo-oaks-1891.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/ivan-shishkin/view-in-the-vicinity-of-st-petersburg-1856.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/karl-bryullov/dreams-of-grandmother-and-granddaughter(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/karl-bryullov/ortrait-of-count-a-a-perovsky-the-writer-anton-pogorelsky(1).jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/karl-bryullov/portrait-of-the-artist-sylvester-shchedrin.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/karl-bryullov/portrait-of-v-v-samoilov.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/karl-bryullov/self-portrait-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/karl-bryullov/self-portrait-with-baroness-ye-n-meller-zakomelskaya-and-a-girl-in-a-boat-1835.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/kazimir-malevich/apple-tree-in-blossom.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/kazimir-malevich/female-torso.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/kazimir-malevich/peasant-1932.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/kazimir-malevich/reapers-1929.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/kazimir-malevich/soldier-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/kazimir-malevich/two-women-in-a-garden.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/konstantin-korovin/on-a-sea-shore-1910.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/konstantin-korovin/pier-in-arkhangelsk.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/konstantin-korovin/pier-in-gurzuf-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/konstantin-korovin/portrait-of-the-artist-tatiana-spiridonovna-lyubatovich.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/konstantin-somov/columbine-s-little-tongue-1915.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/konstantin-somov/portrait-of-a-somov-the-artist-s-father.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/konstantin-somov/portrait-of-the-composer-sergei-rachmaninov-1925.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/konstantin-somov/the-laughed-kiss-1909.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/kuzma-petrov-vodkin/bird-cherry-in-a-glass-1932.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/kuzma-petrov-vodkin/noon-1917.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/kuzma-petrov-vodkin/the-girl-at-the-window-1928.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/mikhail-nesterov/portrait-of-elizaveta-tal-1936.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/mikhail-nesterov/thought-1900.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/mikhail-vrubel/hamlet-and-ophelia-1883.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/mikhail-vrubel/hamlet-and-ophelia-1884.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/mikhail-vrubel/head-of-st-john-the-baptist-1905.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/mstislav-dobuzhinsky/lions-bridge-1923.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/mstislav-dobuzhinsky/the-english-embankment-at-snow-1923.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/mstislav-dobuzhinsky/vitebsk-the-staircase-1923.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/nicholas-roerich/archfoe-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/nicholas-roerich/at-midnight-light-of-the-shambhala-1940.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/nicholas-roerich/birches-1905.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/nicholas-roerich/cabin-1912-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/nicholas-roerich/clowns-skula-and-yeroshka-1914.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/nicholas-roerich/everest-1935.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/nicholas-roerich/idols-1901-1.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/nicholas-roerich/kiss-the-earth-1912-2.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/nicholas-roerich/the-saviour-over-the-door-1913.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/nicholas-roerich/waiting-1941.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/orest-kiprensky/portrait-of-gurko-1811.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/orest-kiprensky/portrait-of-ivan-alexeevich-gagarin-1811.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/orest-kiprensky/portrait-of-kusov-aleksey-ivanovich-1809.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/orest-kiprensky/portrait-of-the-prince-p-scherbatov-1808.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/pyotr-konchalovsky/novgorod-returning-from-the-fair-1926.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/pyotr-konchalovsky/still-life-lilacs-in-two-baskets-1939.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/valentin-serov/a-recruit-1906.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/valentin-serov/catherine-ii-setting-out-to-hunt-with-falcons-1902.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/valentin-serov/in-winter-1898.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/valentin-serov/portrait-of-k-pobedonostsev-1902.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/valentin-serov/portrait-of-kolya-nikolay-simonovich-1880.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/valentin-serov/portrait-of-sergei-chokolov-1887.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/vasily-polenov/old-gates-normandy-1874.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/vasily-vereshchagin/beggar-ninety-six-years-old.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/vasily-vereshchagin/interior-of-the-church-of-st-john-the-evangelist-on-the-ishna-near-rostov-yaroslavsky-1888.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/victor-borisov-musatov/two-ladies-1899.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/vladimir-borovikovsky/naryshkina-elena.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/vladimir-borovikovsky/portrait-of-e-n-arsenyeva.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .
+
+<http://uploads8.wikiart.org/images/vladimir-borovikovsky/portrait-of-the-artist-dmitry-levitzky-1796.jpg> a ecrm:E38_Image,
+     owl:NamedIndividual .

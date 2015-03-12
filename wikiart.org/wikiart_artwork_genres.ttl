@@ -1,0 +1,1550 @@
+@prefix ecrm: <http://erlangen-crm.org/current/> .
+
+<http://culturecloud.ru/resource/object/1919_Alarm> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/A_Balloon_Seller> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/A_Birch_Grove> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/A_Bridegroom_Buying_a_Ring_for_His_Fiancee> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/A_N_Tolstoy,_visiting_the_artist> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/A_Peasant_Girl_with_a_Calf> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/A_Peasant_Woman_with_Scythe_and_Rake> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/A_Peasant_Woman_with_a_Rake> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/A_Peasant_with_an_Evil_Eye> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/A_Recruit> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/A_Street_in_Vichy> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/A_Tree_over_Water_in_the_Vicinity_of_Castel_Gandolfo> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/A_Walk_in_the_Park> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/A_creek> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/A_herd_of_horses_in_Baraba_steppes> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/A_tree> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Abandoned_Mill> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Abbess> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/After_good_luck> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Ai-Petri_Crimea> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Alexander_Khrapovitsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Alexander_Nevsky_striking_Birder_Jarl> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/Ambassador> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/An_Interrupted_Date> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/And_there_was> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Anna_Pavlova_in_the_Ballet_Sylphyde> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Apiary> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Apple_Tree_in_Blossom> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Apple_and_lemon> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Apples> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Apples_and_Leaves> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Archfoe> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/poster> .
+
+<http://culturecloud.ru/resource/object/Arrival_of_a_New_Governess_in_a_Merchant_House> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Artist's_son> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/At_midday> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/At_midnight_Light_of_the_Shambhala> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cloudscape> .
+
+<http://culturecloud.ru/resource/object/At_the_Door_of_a_Mosque> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/At_the_Ilmen_lake> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/At_the_birch_grove> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Autumn> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/AutumnOn_Bridge> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Autumn_Landscape> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Autumn_impassability_of_roads> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Autumn_landscape> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Autumn_landscape_with_church> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Ave_Maria> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Balaklava_The_window_(The_grapes_on_the_table)> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/interior> .
+
+<http://culturecloud.ru/resource/object/Baptism_of_Chris> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Barge_Haulers_on_the_Volga> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Barges_near_the_Bank> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Bather> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/nude_painting> .
+
+<http://culturecloud.ru/resource/object/Bathers> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/nude_painting>,
+     <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Bathing_a_Horse> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Bathing_boys> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Battle_in_the_Heavens> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cloudscape> .
+
+<http://culturecloud.ru/resource/object/Battle_of_Kerzhenets> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/Beech_Forest_in_Switzerland> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Before_Sunset> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Before_a_Thunderstorm> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Before_the_Confession_at_the_Entrance_to_a_Village_Church> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/interior> .
+
+<http://culturecloud.ru/resource/object/Beggar,_Ninety_Six_Years_Old> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Behest_of_the_sky> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Big_masquerade_in_1772_on_the_streets_of_Moscow_with_the_participation_of_Peter_I_and_princer_I_F_Romodanovsky> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Birches> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Bird_Cherry_Tree> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Bird_cherry_in_a_glass> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Black_Cross> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Black_Square> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Black_spot> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Blue_Portrait> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Bluebells> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/flower_painting> .
+
+<http://culturecloud.ru/resource/object/Bogatyr> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/literary painting> .
+
+<http://culturecloud.ru/resource/object/Boris_and_Gleb> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Boulevard> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Boy> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Boyan> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/Boys_(game_boy)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Brahmaputra> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Bridge_in_London> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Bridge_over_a_Brook> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/By_the_Riverside> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Cabin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/interior> .
+
+<http://culturecloud.ru/resource/object/Cannon> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Carpenter> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Cartomancy> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Cassis> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Catherine_II> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Catherine_II_Setting_out_to_Hunt_with_Falcons> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Ceremonial_Meeting_of_the_State_Council_on_May_7,_1901> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Channel_in_Haarlem> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Chest_and_pottery> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Children_Sasha_and_Yura_Serov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Chopin_Performing_in_the_Guest-Hall_of_Anton_Radziville_in_Berlin_in_1829> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Christ_and_Sinner> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Christ_and_the_Disciples_Going_out_into_the_Garden_of_Gethsemane_after_the_Last_Supper> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Christ_in_the_House_of_Martha_and_Mary> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Church_and_bell_tower_in_Chuguyev> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/City> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Classical_Landscape> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Cloud> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Clouds_over_Hills_Study> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Cloudy_Day> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cloudscape> .
+
+<http://culturecloud.ru/resource/object/Clowns_Skula_and_Yeroshka> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/Columbine's_Little_Tongue> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Complex_Presentiment:_Half-Figure_in_a_Yellow_Shirt> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Composition> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Confession_of_an_Italian_Woman> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Coniferous_Forest_Sunny_Day> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Courtyard_in_St_Petersburg> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Cover_for_the_Congress_of_the_Committees_on_Rural_Poverty> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/poster> .
+
+<http://culturecloud.ru/resource/object/Crypt> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Cumulus_Study> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cloudscape> .
+
+<http://culturecloud.ru/resource/object/Cypresses_on_a_Seashore_The_Crimea> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Dawn_in_St_Petersburg> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Death_of_Commissar> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/Death_of_Inessa_de_Castro,_Morganatic_Wife_of_Portuguese_Infant_Don_Pedro> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Defender_Cloud-archer> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cloudscape> .
+
+<http://culturecloud.ru/resource/object/Demonstration_on_October_17,_1905_(Sketch)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Dimensions_and_material_of_painting> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Diogenes_and_the_boy> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Dmitry_Donskoy_after_the_Battle_of_Kulikovo> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Dmitry_Donskoy_after_the_Battle_of_Kulikovo_(detail)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Dreams_of_Grandmother_and_Granddaughter> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/allegorical_painting> .
+
+<http://culturecloud.ru/resource/object/Dredger> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Early_Spring_Flood> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Early_spring> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Earth_paternoster> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Elbrus_in_the_Evening> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Elegy_Blind_Musician> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Ellora> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Empress_Maria_Feodorovna> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Enchantment> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/symbolic_painting> .
+
+<http://culturecloud.ru/resource/object/Entombment_of_Alexander_Nevsky> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Entrance_of_Christ_into_Jerusalem> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Entrance_to_a_Temple_in_Nikko> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Eriklik_the_Fountain_(Crimea)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Esther> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Evening_Shadows> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Evening_in_Ukraine> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Everest> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Explosion_of_Arkadion_Monastery_on_Crete_in_1866> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Fair_Booths_on_Admiralty_Square,_St_Petersburg> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Family_Portrait_(against_Chinese_panel)> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Fantasy> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/symbolic_painting> .
+
+<http://culturecloud.ru/resource/object/Father_Frost> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/Feasting_Romans> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Fedor_Shalaypin_as_Demon_in_Rubinstein`s_opera> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/Female_Figure> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Female_Torso> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Festivities_Marking_the_Opening_of_the_Second_Congress_of_the_Comintern_and_Demonstration_on_Uritsky_(Palace)_Square_in_Petrograd_on_July_19th_1920> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Fields> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Finland_A_Street_in_Lovisa> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Fires_of_victory_(Sentinel_lights_on_the_towers_in_Gobi)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/First_Ecumenical_Council_of_Nicaea> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/First_Steps_(Peasant_Woman_with_child)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Fish> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Flooding_of_the_Volga_river_near_Yaroslavl> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Flowergirl> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Footpath_in_a_Forest_Ferns> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Forest_Landscape_with_Herons> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Fortune-teller_with_a_candle> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Fourth_Ecumenical_Council_of_Chalcedon> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/From_the_life_in_Petrograd_in_1920> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Gathering_Mushrooms> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Gathering_Storm> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Genius_of_Art> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/allegorical_painting> .
+
+<http://culturecloud.ru/resource/object/Giantess_Krimgerd> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/Girl> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Girl_Figure> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Girl_Gathering_Grapes_in_a_Suburb_of_Naples> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Girl_in_a_Kerchief> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Girl_in_the_Country> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Girl_with_Burak> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Girl_with_a_Pitcher> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Golden_autumn,_village> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Greek_Morning_in_Myraca> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Group_portrait_of_painters_of_the_World_of_Art> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Grove> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Grove_by_the_Pond_Preobrazhenskoye> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Gursuf> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Gypsy> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Hamlet_and_Ophelia> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/literary painting> .
+
+<http://culturecloud.ru/resource/object/Harvesting> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Haymaking> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Head> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Head_of_Demon> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sculpture> .
+
+<http://culturecloud.ru/resource/object/Head_of_Peasant> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait>,
+     <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Head_of_St_John_the_Baptist> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Head_of_a_Kirghiz_Sketch> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Head_of_a_Kirgiz-convict> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Head_of_a_Man> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Head_of_a_Peasant> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Head_of_the_boy-Uzbek> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Herring> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Himalayas_Blue_mountains> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Himalayas_Gloomy_cliff> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Himalayas_Mountains_lit_by_sunset> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Himalayas_Spoors_of_motley_mountains> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Horses_on_a_Shore> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/animal painting> .
+
+<http://culturecloud.ru/resource/object/House_with_broom_trees> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Idols> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Ilya_Muromets> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/Improvisation_11> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/In_Shuvalovo> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/In_The_Birch_Tree_Forest> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/In_Winter> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/In_a_Boat> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/In_an_Oak_Grove> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/In_the_Baths> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/In_the_Bosquet> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/In_the_Grove> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/In_the_castle> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/Interior_of_the_Church_of_St_John_the_Evangelist_on_the_Ishna_near_Rostov_Yaroslavsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/interior> .
+
+<http://culturecloud.ru/resource/object/Interior_of_the_Wooden_Church_of_St_Peter_and_St_Paul_in_Puchug> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/interior> .
+
+<http://culturecloud.ru/resource/object/Italian,_Expecting_a_Child,_Looking_at_His_Shirt,_Her_Husband_Cobble_Together_a_Cradle> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Italian_Midday> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Italian_Woman_Blowing_a_Kiss> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Japanese_Beggar> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Japanese_Priest> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Japanese_Woman> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Job_and_His_Friends> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Karamzin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Kireyevsk_EV> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Kiss_the_Earth> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/Kitchen_garden_on_Obvodny_channel> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Kramskoi_Ivan_Mina_Moiseev_Sun> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Krestovsky_Island_Shrouded_in_Mist> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Krishna_Magic_flute> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Lady_Embroidering> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Lady_Taking_off_a_Mask> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sculpture> .
+
+<http://culturecloud.ru/resource/object/Lady_and_Harlequin_(Fireworks_)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Lake_Barns_at_the_forest_edge> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Lake_Como> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Lake_Ladoga> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Lake_Rus> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Lake_Yam-tso> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Landscape> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Landscape_in_the_Evening_Martyshkino> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_Five_Houses> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_Peasant's_Huts_and_Pond_near_St_Petersburg> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_White_House> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_Yellow_House> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_a_Hunter_Valaam_Island> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_a_Rainbow> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_a_River_and_an_Angler> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_buildings> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Late_Autumn> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Laughter_(Hail,_king_of_Judah)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Laundress> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Lights_on_the_Ganges> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Lilacs> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/flower_painting>,
+     <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Lions_Bridge> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Lombardy_Poplars_on_the_Bank_of_a_Lake_Evening> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Lunar_night> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/Madonna_with_the_Child> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Maikov_Nicholas_Apollonovich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Malta_Valetto_Harbour> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Marpha_and_Van'ka> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Mast_Tree_Grove> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Matador_Manuel_Gartha> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Meadow_on_the_Edge_of_a_Forest> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Meeting_of_the_Brig_Mercury_with_the_Russian_Squadron_After_the_Defeat_of_Two_Turkish_Battleships> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/Merchant's_Woman_with_a_Mirror> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Mikula_Selyaninovich> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/Mill_in_the_mountains> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/Mist_Autumn> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Mixed_Forest_Shmetsk_Near_Narva> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Monastery_Gates> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Monument_to_Peter_the_Great> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Moon_Night> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Moonlight_Night_on_the_Dnieper> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Moonlight_in_a_Forest_Winter> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Moonlit_Night_A_Village> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Morning> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718>,
+     <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Morning_Still_Life> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Morning_in_a_Village> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Morning_of_the_Landlady> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Mother> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Mountain_Village_Gunib_in_Daghestan_View_from_the_East> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Mountains_of_the_Crimea_in_Autumn> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Mstislav's_duel_with_Rededia> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12993> .
+
+<http://culturecloud.ru/resource/object/Murmansk_The_polar_night> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/Nadezhda_Zabela-Vrubel_as_Princess_Volkhova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Naked_boy> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/nude_painting> .
+
+<http://culturecloud.ru/resource/object/Naples> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Naryshkina Elena> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Natalia_Borshchova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Near_a_Church_Valaam> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Near_a_Watering_Place> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Negress> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Noon> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Novgorod_Detinets> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Novgorod_Returning_from_the_fair> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Novgorod_cemetery_(Northern_Rus)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Novgorodians> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Nun's_Dream> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/allegorical_painting> .
+
+<http://culturecloud.ru/resource/object/Oaks> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Oaks_on_the_shore> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Old_Gates_Normandy> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Old_Woman_with_a_Hen_(Portrait_of_the_Artist`s_Wife)> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Old_king> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Ominous> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/animal painting> .
+
+<http://culturecloud.ru/resource/object/Omnibus_in_Vilno> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/On_Vacation> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/On_Valaam_Rocks> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/On_a_Sea_Shore> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/flower_painting> .
+
+<http://culturecloud.ru/resource/object/On_a_Turf_Bench> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/On_the_Boulevard> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/On_the_Bridge> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/On_the_River_Calm> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/On_the_River_Windy_Day> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/On_the_Shore_of_the_Gulf_of_Finland_Udrias_Near_Narva> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/On_the_cemetery> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Ostankino> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Outraged_Jewish_boy> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Overgrown_pond> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/ParisNotre-Dame> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Partisans> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Paul_I> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Peasant> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Peasant's_Courtyard> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Peasant_Boy_Putting_on_Bast_Sandals> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Peasant_Children_in_the_Field> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Peasant_Woman> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Peasant_Woman_in_a_Cart> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Peasant_Woman_with_Buckets> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Peasant_in_the_Fields> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Peasants> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/People> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/Peter_II_and_Princess_Elizabeth_Petrovna_Riding_to_Hounds> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Peter_I_drags_ships_from_the_Onega_Bay_in_Lake_Onega_in_1702> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Peter_and_Paul_Fortress> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Petersburg> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Petersburg_The_Obvodny_Canal> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Pheb_in_His_Chariot> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/Phryne_at_the_Poseidonia_in_Eleusis_(detail)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/Phryne_on_the_Poseidon's_celebration_in_Eleusis> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/Phryne_on_the_Poseidon's_celebration_in_Eleusis_(detail)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/Pier_in_Arkhangelsk> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Pier_in_Gurzuf> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/interior> .
+
+<http://culturecloud.ru/resource/object/Pine_forest> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Poppies_in_the_Garden> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Portarait_of_philosopher_Vladimir_Solovyov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_A_Sapozhnikov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_Dmitriyev-Mamonov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_G_and_A_A_Lobanov_Rostovsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_I_Tropinina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_P_Levshina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_Somov,_the_Artist's_Father> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_Tamilov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Adelaida_Simonovich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Aleksandr_Zhirkevich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Aleksey_Ivanovich_Korsakov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexander_Bruloff> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexander_Kokorinov,_Director_and_First_Rector_of_the_Academy_of_Arts_in_St_Petersburg> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexander_Lanskoy,_Aide-de-camp_to_the_Empress> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexander_Turchaninov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexei_Nikolaevich_Olenin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexei_Suvorin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Anna_Akhmatova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Anna_Benois> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Anna_Furman> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Anna_Ostroumova-Lebedeva> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Art_Critic_Pavel_Kovalevsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Artist's_Daughters_Alexandra_and_Felisata> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Artist_s_Daughter> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Artist_s_Wife_NA_Malevich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Baroness_Alexandra_Nolde> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Captain_A_M_Kostinich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Catherine_II_as_Legislator_in_the_Temple_of_the_Goddess_of_Justice> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Chaliapin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Colonel_Evgraf_V_Davydov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Count_A_A_Perovsky_(the_Writer_Anton_Pogorelsky)> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Count_Feliks_Feliksovich_Sumarokov-Yelstov_later_Prince_Yusupov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Count_Nikolay_Sumarokov-Elstone> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Count_Sergei_Grigoriyevich_Stroganov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_A_S_Protasova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Anna_Vorontsova_as_a_Child> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Ekaterina_Vorontsova_as_a_Child> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Maria_Vorontsova_as_a_Child> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_N_F_Vorontsova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Natalia_Golovina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Praskovya_Vorontsova_as_a_Child> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Sophia_Alexandrovna_Golenischev-Kutuzova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Varvara_Musina-Pushkina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Yu_P_Samoilova_and_Her_Ward_Amacilia_Pacini_Leaving_a_Ball> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_D_P_Troschinsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Dmitry_Levitzky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Dmitry_Stasov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_EKustodieva,_Artist's_Mother> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_E_A_Vorontsova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_E_N_Arsenyeva> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_E_N_Khruschova_and_Princess_E_N_Khovanskaya> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_E_P_Protasyeva> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Efim_Repin,_the_Artist's_Father> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ekaterina_Avdulina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ekaterina_Kornilova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ekaterina_Nelidova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Elizabeth_Olenina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Elizaveta_Kruglikova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Elizaveta_Tal> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_F_A_Borovsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Fedor_Orlov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Feodor_Petrushevsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Fyodor_Chaliapin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_G_I_Alymova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Grand_Duchess_Elena_Pavlovna_and_Her_Daughter_Maria> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Grand_Duchess_Olga_Alexandrovna> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Greate_russian_empress_Catherine_II> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Gurko> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_IB_Kustodieva> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_I_Lazarev> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ida_Lvovna_Rubinstein> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ivan_Alexeevich_Gagarin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ivan_Kliun> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ivan_Pavlov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ivan_Stepanovich_Panov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ivan_Yershov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_K_A_and_M_Ya_Narishkin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_K_I_Golovachevsky_and_the_Younger_Pupils_of_the_Academy> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_K_Pobedonostsev> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Kolya_(Nikolay)_Simonovich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Kusov_Aleksey_Ivanovich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Lialia_(Adelaida)_Simonovich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_M_A_Kikina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Man> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Mara_Oliv> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Maria_Artsybasheva> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Maria_Botkina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Maxim_Gorky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Minister_of_Ways_of_Communication_and_member_of_State_Council,_Prince_Mikhail_Ivanovich_Khilkov_Study> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_N_Kochubey> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_N_Y_Levitzkaya,_Artist's_Wife> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_N_Zabela> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_N_Zabela-Vrubel_on_the_Edge_of_a_Birch_Grove> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nadezhda_Komarovskaya> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nadezhda_Stasova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nicholas_II,_The_Last_Russian_Emperor> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nicholas_II_The_Last_Russian_Emperor> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nikolai_Kridener,_the_Artist_s_Brother> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nikolay_Lvov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nikolay_Rerich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Olga_Nesterova_(Woman_in_a_Riding_Habit)> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_P_Denike_(Yuriev)and_A_Pokrovsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_P_Semenov-Tien-Shansky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Polixena_Stasova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Portrait_of_K_I_Albrekht> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Praskovia_Repnina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Prince_A_B_Kurakin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Prince_Felix_Yussupov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Princess_Olga_Orlova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Princess_Ye_P_Saltykova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Princess_Z_A_Volkonskaya> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Princess_Zinaida_Yusupova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Princess NI Kurakin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Rene_Ivanovna_Notgaft> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_S_A_Bobrinsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_S_A_Sobolevsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_S_Mamontov_in_a_Theatre_Costume> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sergei_Chokolov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sergei_Diaghilev> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sidor_Shavrov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Singer_A_Ya_Petrova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sofia_Mikhailovna_Botkina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sonya_Kramskaya,_the_Artist`s_Daughter> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sophia_Dragomirova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Theodora_Saltykova,_the_Painter`s_Mother_in_Law> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_U_M_Smirnova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_V_A_Kornilov_on_Board_the_Brig_Themistocles> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_V_I_Mitrofanov_and_M_A_Mitrofanova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_V_V_Samoilov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Valentina_Usoltseva,_wife_of_the_Doctor_Usoltsev> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Vasily_Alekseevich_Perovsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Vera_Repina,_the_Artist's_Wife> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Vera_Repinahe,_the_Artist's_Daughter> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Vera_Shevtsova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Victor_Goshkevich,_the_Founder_of_the_Historic_Aarchaeological_Museum_in_Kherson> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Vladimir_Bekhterev> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Woman_in_Yellow_Hat> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Yakov_Golubev,_Vice_Director_of_the_Tax_Department> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ye_A_Arkharova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ye_I_Ton> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Yelena_Likhachova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Yelena_Oliv> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/nude_painting> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Yulia_Yevstafievna_Kustodieva,_the_artist's_wife> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of__Vice_Minister_of_the_Interior,_cavalry_general_and_member_of_State_Council,_Count_Aleksey_Pavlovich_Ignatiev_(Study)> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Boy_in_a_Coloured_Shirt> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Girl_(Study_for_Youth_of_St_Sergiy_Radonezhsky)> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Hero_of_the_Soviet_Union,_Pilot_A_B_Yumashev> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Man> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Woman> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Youth> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_an_Art_Historian_and_Restorer_Alexander_Anisimov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_an_Officer> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_an_Unknown_Lady_in_a_Pink_Dress> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_an_Unknown_Man> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_composer_and_chemist_Aleksander_Porfirievich_Borodin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_countess_Sophia_Vladimirovna_Panina> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_music_editor_and_patron_Mitrofan_Petrovich_Belyayev> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_princesses_Davydova_and_Rzhevskaya> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Architect_K_A_Ton> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Architect_and_Painter_Alexander_Brulloff> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Art_Critic_Vladimir_Stasov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist's_Daughter,_Vera> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Alexander_Sokolov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Arkhip_Kuindzhi> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Dmitry_Levitzky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Georgi_Vereisky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Igor_Grabar> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Mikhail_Dyakonov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Prince_G_G_Gagarin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Sylvester_Shchedrin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Vasily_Perov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Author_Ivan_Turgenev> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Author_Mikhail_Saltykov-Shchedrin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Chello_Player_Alexander_Verzhbilovich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Composer_Alexander_Glazunov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait>,
+     <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Composer_Alexander_Serov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Composer_Nikolay_Rymsky-Korsakov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Lawyer_Vladimir_Spasovitch> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Narratorb_of_the_Folk_Tales_V_Tschegolionkov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Painter_Ivan_Bilibin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Photographer_Andrey_Denier> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Poet_Nikolay_Nekrasov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Poet_and_Playwright_Alexey_Tolstoy_as_a_Youth> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Prince_P_Scherbatov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Princess_A_Scherbatova> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Sculptor_Bertel_Thorvaldsen> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Sculptor_Mark_Antokolsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Shishmariov_Sisters> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Singer_Alexandra_Molas> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_State_Chancellor_of_the_Internal_Affairs,_Prince_Victor_Pavlovich_Kochubey_in_his_Study> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Surgeon_Nikolay_Pirogov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_artist's_father,_Adam_Karlovich_Schwalbe> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_astronomer_Otto_Struve_Vasilyevich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_author_Ieronim_Yasinsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_composer_Sergei_Rachmaninov> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_sculptor_EPTarhanova-Antokolskaya> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the Artist Tatiana Spiridonovna Lyubatovich> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_woman_with_yellow_background> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Prayer> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Praying_Woman> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Preparation_for_the_Examination> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Prince_Alexander_Nevsky> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Prince_Alexander_Nevsky_in_Gold_Horde> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Procopius_the_Righteous_is_praying_of_unknown_navigating> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Promenade_after_Rain_1> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Promenading_in_the_Forest> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Pushkin_at_the_top_of_the_Ai-Petri_Mountain_at_sunrise> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Rainbow> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Raising_of_Jairus_Daughter> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Rapid_Stream> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Reaper> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718>,
+     <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Reapers> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718>,
+     <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Red_Figure> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Red_House> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Red_sunset> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Rest_Society_in_Top_Hats> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Rest_after_a_Walk> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Retired_Butler> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/River_in_Forest> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Roman_Orgy_in_the_Time_of_Caesars> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Rooftops> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Roses_in_Ladakh> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Rostov_the_Great> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Ruins_in_Chuguchak> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Ruins_in_Park> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Russian_Troops_under_Suvorov_Crossing_the_Alps> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Russian_Venus> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/nude_painting> .
+
+<http://culturecloud.ru/resource/object/Russian_squadron_on_the_raid_of_Sevastopol> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Sadko> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/literary painting>,
+     <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/Saint_Isaac`s_cathedral_under_the_snow> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Salome_brings_head_of_Saint_John_the_Baptist_to_her_mother_Herodias> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Samarkand> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/San_Gimignano> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Satyr_and_Bacchante_(Bacchanalia)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13025> .
+
+<http://culturecloud.ru/resource/object/Sea_view_by_Moonlight> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/Seashore> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/Seashore_in_Crimea> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Second_Ecumenical_Council_of_Constantinople> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Self-Portrait> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Self-Portrait_(Man_with_hurt_hand)> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Self-Portrait_with_Brushes_and_a_Palette_Against_a_Window_Facing_the_Kremlin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Self-portrait> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Self-portrait_with_Baroness_Ye_N_Meller-Zakomelskaya_and_a_Girl_in_a_Boat> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Self_Portrait> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Self_Portrait_with_Sister> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Self_portrait> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Send_off_of_recruit> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Seraphim> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Set_design_for_the_Opera> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/Seven_Boys_in_Colourful_Clothes> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Shah-i-Zinda> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Sheaves_and_a_Village_Beyond_the_River> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Shelling_of_beet> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Siberian_woman> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Siena> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Silen,_Satyr_and_Bacchanals> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Silence> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/symbolic_painting>,
+     <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Singer> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Sinto_Temple_in_Nikko> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Skating_Rink_in_Winter> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Sketch_for_fresco> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Sketch_for_the_design_of_a_curtain_for_the_ballet_'Scheherazade'> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/Sleeping_Herd-Boy> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Snowbound_garden> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Soldier> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Solitary_Guitarist> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Sorrento_Grave_of_Sylvester_Shchedrin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Speakers_on_Tribune> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Spring> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934>,
+     <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Spring_Garden_in_Blossom> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Spring_Landscape_with_a_Cottage> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Spring_Sun> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Springtime_The_Last_Snow> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/St_George_and_Dragon> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/St_Nicholas_Saves_Three_Innocents_from_Death> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Stepan_Razin> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Still_Life> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Apples_in_a_sieve> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Still_Life_It's_time_for_tea> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Lilacs_in_two_baskets> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/flower_painting> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Samovar> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Table,_books,_and_the_pipes> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Table_with_fruits_and_yellow_flowers> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Tray_and_vegetables> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Still_Life_White_partridge> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Wildflowers> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/flower_painting> .
+
+<http://culturecloud.ru/resource/object/Still_Life_with_Brocade> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Still_Life_with_Loaves_of_Bread> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Still_Life_with_a_Coffeepot> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Storm> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/Storm_on_the_Volga> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Street_in_London> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Strike> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Summer_Garden_in_winter> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Summer_Landscape> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Summer_Morning> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Sundown_over_a_marsh> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cloudscape> .
+
+<http://culturecloud.ru/resource/object/Sunset> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Sunset_Effect> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Sunset_in_the_winter_A_coast_of_the_sea> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Suprematism> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/abstraction> .
+
+<http://culturecloud.ru/resource/object/Sveaborg> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/Swamp_in_a_Forest_Mist> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Sweet_Waters_Near_Constantinople> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Swirling_glow> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Taking_a_snowy_town> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Tempest_by_cape_Aiya> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/Thaw Yaroslavl> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Appearance_of_Christ_to_Mary_Magdalene> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/The_Athlete_of_the_Future> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study>,
+     <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/The_Coast_at_Amalfi> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Collapse_of_a_Bank_(study)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_Concert_in_the_Assembly_of_Nobility> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_Condemned> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_Crimea_The_Southern_Shore> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Doctor's_Waiting_Room> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_Doss_House> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_English_Embankment_at_snow> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/The_Flying_Demon> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/illustration> .
+
+<http://culturecloud.ru/resource/object/The_Great_Roads_at_Kronstadt> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/The_Gully> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Khorovod> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_Lake_Barns_at_the_edge_of_forest> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Lake_Eventide> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Last_Day_of_Pompeii> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/The_Laughed_Kiss> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/pastorale> .
+
+<http://culturecloud.ru/resource/object/The_Merchant's_Wife> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/The_Merchant's_Wife_at_Tea> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/The_Miller> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/The_Model_in_a_chair> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/nude_painting> .
+
+<http://culturecloud.ru/resource/object/The_Mordvinovo_Oaks> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Mount_Kazbek> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Northern_Dvina> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Path_through_the_Woods,_1880_(oil_on_canvas)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Philosophers:_Portrait_of_Sergei_Bulgakov_and_Pavel_Florenskiy> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_Provinces_in_the_1830s> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/The_Reply_of_the_Zaporozhian_Cossacks_to_Sultan_Mahmoud_IV> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/The_Roads_at_Kronstadt> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/The_Sale_of_the_Child_Slave> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_Sea_The_Crimea> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Sea_with_a_Sailing_Ship> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/The_Shore_Cloudy_Day> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Six_Winged_Seraph> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/literary painting> .
+
+<http://culturecloud.ru/resource/object/The_Swineherd> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/design> .
+
+<http://culturecloud.ru/resource/object/The_Taking_of_the_Veil> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_Teutoburg_Forest> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Transportation_of_Marble_at_Carrara> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_Twilight_Moon> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_Vision_of_the_Prophet_Ezekiel> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/The_district_court> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/The_girl_at_the_window> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/The_girl_on_the_beach> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/The_handing_over_of_the_Sacred_Carpet_in_Cairo> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/The_old_gardener> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/The_road_in_the_woods> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/The_saviour_over_the_door> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/The_ships_on_rough_sea,_sunrise> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/The_tower_of_Genoa> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Thinker_(Portrait_of_philisopher_Ivan_Ilyin)> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Third_Ecumenical_Council_of_Ephesus> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Thirty-three_knights> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/literary painting> .
+
+<http://culturecloud.ru/resource/object/Thought> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Three_Ladies_on_the_Terrace> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Three_Woman_Figures> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Three_nude_boys> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/nude_painting> .
+
+<http://culturecloud.ru/resource/object/Three_pleasures> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/allegorical_painting> .
+
+<http://culturecloud.ru/resource/object/Threshing-Floor> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Tide> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/To_Blagovest> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Torso> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Tower_of_terror> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/interior> .
+
+<http://culturecloud.ru/resource/object/Trees_and_bushes> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Triumph_of_the_Skies> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/Tropical_landscape> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Tsar_Alexei_Michaylovich_choosing_a_bride> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Tsar_Nicholas_II> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Tsarevna_Sophia_Alexeevna_in_the_Novodevitchy_Convent> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Turkish_Soldier> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Two_Figures> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Two_Ladies> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Two_Male_Figures> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Two_Women_in_a_Garden> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Two_woman> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Type_in_the_Swiss_Alps_(Mount_Small_Ruhen)> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Ukrainian_landscape> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Unemployed_Girl> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Urban_Landscape> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Valley_of_the_River_Autumn> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Via_Appia_at_Sunset> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Viaduct_in_London> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/View_in_the_Vicinity_of_St_Petersburg> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/View_near_Dusseldorf> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/View_of_Constantinople_by_Moonlight> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/View_of_Krasnoyarsk_from_knoll> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/View_of_Moscow_from_Sparrow_Hills> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/View_of_Valaam_Island_Kukko> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/View_of_the_Kremlin_from_the_Zamoskvorechye_District> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/View_of_the_Moskvoretsky_Bridge,_the_Kremlin_and_the_Pokrovsky_Cathedral> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/View_of_the_Sea_from_the_Mountains_at_Sunset_Crimea> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/View_on_rocky_coast> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Village> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Violin> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/still life> .
+
+<http://culturecloud.ru/resource/object/Vitebsk> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Vitebsk_Circus> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Vitebsk_The_staircase> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Waiting> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/pastorale> .
+
+<http://culturecloud.ru/resource/object/Walk_at_Sunset> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/Wasteland_on_Vasilievsky_Island> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Water_Mill_on_a_Mountain_River_Crimea> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/What_People_Think_about_Me> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13317> .
+
+<http://culturecloud.ru/resource/object/What_a_Freedom> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12718> .
+
+<http://culturecloud.ru/resource/object/White_night_in_Northern_Norway> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x13032> .
+
+<http://culturecloud.ru/resource/object/Willows_Lit_Up_by_the_Sun> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Windmill_on_the_Sea_Coast> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Winte> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Winter> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Winter_Spots_of_Light_on_Cottage_Roof> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Winter_Sunlight_on_The_Hoar_Frost> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12934> .
+
+<http://culturecloud.ru/resource/object/Winter_in_the_City> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/cityscape> .
+
+<http://culturecloud.ru/resource/object/Woman_(study)> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Woman_at_the_window> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Woman_s_Head_in_Profile> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Woodcutter> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/sketch_and_study> .
+
+<http://culturecloud.ru/resource/object/Yermak's_conquest_of_Siberia> ecrm:P2_has_type <http://collection.britishmuseum.org/id/thesauri/x12859> .
+
+<http://culturecloud.ru/resource/object/Young_Gardener> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .
+
+<http://culturecloud.ru/resource/object/Zyrian> ecrm:P2_has_type <http://culturecloud.ru/resource/thesauri/portrait> .

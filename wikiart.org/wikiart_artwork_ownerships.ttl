@@ -1,0 +1,1565 @@
+@prefix ecrm: <http://erlangen-crm.org/current/> .
+
+<http://culturecloud.ru/resource/object/1919_Alarm/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/A_Balloon_Seller/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/A_Birch_Grove/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/A_Bridegroom_Buying_a_Ring_for_His_Fiancee/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> .
+
+<http://culturecloud.ru/resource/object/A_N_Tolstoy,_visiting_the_artist/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/A_Peasant_Girl_with_a_Calf/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/A_Peasant_Woman_with_Scythe_and_Rake/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/A_Peasant_Woman_with_a_Rake/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/A_Peasant_with_an_Evil_Eye/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/A_Recruit/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/A_Street_in_Vichy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/A_Tree_over_Water_in_the_Vicinity_of_Castel_Gandolfo/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> .
+
+<http://culturecloud.ru/resource/object/A_Walk_in_the_Park/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Victor_Borisov-Musatov> .
+
+<http://culturecloud.ru/resource/object/A_creek/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/A_herd_of_horses_in_Baraba_steppes/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/A_tree/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Abandoned_Mill/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Abbess/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/After_good_luck/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Ai-Petri_Crimea/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Alexander_Khrapovitsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Alexander_Nevsky_striking_Birder_Jarl/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Ambassador/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/An_Interrupted_Date/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/And_there_was/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Polenov> .
+
+<http://culturecloud.ru/resource/object/Anna_Pavlova_in_the_Ballet_Sylphyde/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Apiary/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Apple_Tree_in_Blossom/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Apple_and_lemon/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Apples/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Apples_and_Leaves/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Archfoe/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Arrival_of_a_New_Governess_in_a_Merchant_House/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Perov> .
+
+<http://culturecloud.ru/resource/object/Artist's_son/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/At_midday/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/At_midnight_Light_of_the_Shambhala/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/At_the_Door_of_a_Mosque/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/At_the_Ilmen_lake/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/At_the_birch_grove/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Autumn/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi>,
+     <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/AutumnOn_Bridge/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Autumn_Landscape/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Autumn_impassability_of_roads/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Autumn_landscape/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Autumn_landscape_with_church/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Ave_Maria/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> .
+
+<http://culturecloud.ru/resource/object/Balaklava_The_window_(The_grapes_on_the_table)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Baptism_of_Chris/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Henryk_Siemiradzki> .
+
+<http://culturecloud.ru/resource/object/Barge_Haulers_on_the_Volga/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Barges_near_the_Bank/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Bather/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Bathers/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich>,
+     <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Bathing_a_Horse/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Bathing_boys/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Battle_in_the_Heavens/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Battle_of_Kerzhenets/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Beech_Forest_in_Switzerland/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Before_Sunset/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Before_a_Thunderstorm/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Before_the_Confession_at_the_Entrance_to_a_Village_Church/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Beggar,_Ninety_Six_Years_Old/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Behest_of_the_sky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Big_masquerade_in_1772_on_the_streets_of_Moscow_with_the_participation_of_Peter_I_and_princer_I_F_Romodanovsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Birches/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Bird_Cherry_Tree/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Bird_cherry_in_a_glass/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Black_Cross/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Black_Square/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Black_spot/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Wassily_Kandinsky> .
+
+<http://culturecloud.ru/resource/object/Blue_Portrait/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Bluebells/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Victor_Borisov-Musatov> .
+
+<http://culturecloud.ru/resource/object/Bogatyr/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Boris_and_Gleb/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Boulevard/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Boy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Boyan/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Boys_(game_boy)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Brahmaputra/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Bridge_in_London/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Bridge_over_a_Brook/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/By_the_Riverside/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Cabin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Cannon/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Carpenter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Cartomancy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Cassis/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Catherine_II/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Catherine_II_Setting_out_to_Hunt_with_Falcons/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Ceremonial_Meeting_of_the_State_Council_on_May_7,_1901/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Channel_in_Haarlem/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Chest_and_pottery/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Children_Sasha_and_Yura_Serov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Chopin_Performing_in_the_Guest-Hall_of_Anton_Radziville_in_Berlin_in_1829/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Henryk_Siemiradzki> .
+
+<http://culturecloud.ru/resource/object/Christ_and_Sinner/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Henryk_Siemiradzki> .
+
+<http://culturecloud.ru/resource/object/Christ_and_the_Disciples_Going_out_into_the_Garden_of_Gethsemane_after_the_Last_Supper/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nikolai_Ge> .
+
+<http://culturecloud.ru/resource/object/Christ_in_the_House_of_Martha_and_Mary/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Henryk_Siemiradzki> .
+
+<http://culturecloud.ru/resource/object/Church_and_bell_tower_in_Chuguyev/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/City/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Classical_Landscape/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Bogaevsky> .
+
+<http://culturecloud.ru/resource/object/Cloud/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Clouds_over_Hills_Study/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Cloudy_Day/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Clowns_Skula_and_Yeroshka/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Columbine's_Little_Tongue/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Complex_Presentiment:_Half-Figure_in_a_Yellow_Shirt/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Composition/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Confession_of_an_Italian_Woman/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Coniferous_Forest_Sunny_Day/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Courtyard_in_St_Petersburg/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Cover_for_the_Congress_of_the_Committees_on_Rural_Poverty/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Crypt/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Cumulus_Study/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Cypresses_on_a_Seashore_The_Crimea/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Dawn_in_St_Petersburg/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Death_of_Commissar/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Death_of_Inessa_de_Castro,_Morganatic_Wife_of_Portuguese_Infant_Don_Pedro/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Defender_Cloud-archer/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Demonstration_on_October_17,_1905_(Sketch)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Dimensions_and_material_of_painting/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/Diogenes_and_the_boy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Dmitry_Donskoy_after_the_Battle_of_Kulikovo/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Dmitry_Donskoy_after_the_Battle_of_Kulikovo_(detail)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Dreams_of_Grandmother_and_Granddaughter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Dredger/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Early_Spring_Flood/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/Early_spring/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Earth_paternoster/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Elbrus_in_the_Evening/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Elegy_Blind_Musician/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Ellora/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Empress_Maria_Feodorovna/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Makovsky> .
+
+<http://culturecloud.ru/resource/object/Enchantment/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Entombment_of_Alexander_Nevsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Entrance_of_Christ_into_Jerusalem/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Henryk_Siemiradzki> .
+
+<http://culturecloud.ru/resource/object/Entrance_to_a_Temple_in_Nikko/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Eriklik_the_Fountain_(Crimea)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Esther/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Evening_Shadows/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Evening_in_Ukraine/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Everest/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Explosion_of_Arkadion_Monastery_on_Crete_in_1866/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Fair_Booths_on_Admiralty_Square,_St_Petersburg/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Makovsky> .
+
+<http://culturecloud.ru/resource/object/Family_Portrait_(against_Chinese_panel)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Fantasy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Father_Frost/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Feasting_Romans/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Fedor_Shalaypin_as_Demon_in_Rubinstein`s_opera/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Female_Figure/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Female_Torso/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Festivities_Marking_the_Opening_of_the_Second_Congress_of_the_Comintern_and_Demonstration_on_Uritsky_(Palace)_Square_in_Petrograd_on_July_19th_1920/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Fields/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Finland_A_Street_in_Lovisa/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Fires_of_victory_(Sentinel_lights_on_the_towers_in_Gobi)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/First_Ecumenical_Council_of_Nicaea/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/First_Steps_(Peasant_Woman_with_child)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Fish/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Flooding_of_the_Volga_river_near_Yaroslavl/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/Flowergirl/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Footpath_in_a_Forest_Ferns/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Forest_Landscape_with_Herons/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Fortune-teller_with_a_candle/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Fourth_Ecumenical_Council_of_Chalcedon/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/From_the_life_in_Petrograd_in_1920/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Gathering_Mushrooms/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Gathering_Storm/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Genius_of_Art/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Giantess_Krimgerd/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Girl/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Girl_Figure/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Girl_Gathering_Grapes_in_a_Suburb_of_Naples/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Girl_in_a_Kerchief/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Girl_in_the_Country/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Girl_with_Burak/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Girl_with_a_Pitcher/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Perov> .
+
+<http://culturecloud.ru/resource/object/Golden_autumn,_village/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Greek_Morning_in_Myraca/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Group_portrait_of_painters_of_the_World_of_Art/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Grove/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Grove_by_the_Pond_Preobrazhenskoye/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Gursuf/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Gypsy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Hamlet_and_Ophelia/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Harvesting/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Haymaking/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Head/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Head_of_Demon/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Head_of_Peasant/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Head_of_St_John_the_Baptist/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Head_of_a_Kirghiz_Sketch/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Perov> .
+
+<http://culturecloud.ru/resource/object/Head_of_a_Kirgiz-convict/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Perov> .
+
+<http://culturecloud.ru/resource/object/Head_of_a_Man/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> .
+
+<http://culturecloud.ru/resource/object/Head_of_a_Peasant/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Head_of_the_boy-Uzbek/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Herring/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Himalayas_Blue_mountains/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Himalayas_Gloomy_cliff/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Himalayas_Mountains_lit_by_sunset/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Himalayas_Spoors_of_motley_mountains/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Horses_on_a_Shore/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/House_with_broom_trees/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Idols/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Ilya_Muromets/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Improvisation_11/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Wassily_Kandinsky> .
+
+<http://culturecloud.ru/resource/object/In_Shuvalovo/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/In_The_Birch_Tree_Forest/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/In_Winter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/In_a_Boat/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/In_an_Oak_Grove/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/In_the_Baths/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/In_the_Bosquet/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/In_the_Grove/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/In_the_castle/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Interior_of_the_Church_of_St_John_the_Evangelist_on_the_Ishna_near_Rostov_Yaroslavsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Interior_of_the_Wooden_Church_of_St_Peter_and_St_Paul_in_Puchug/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Italian,_Expecting_a_Child,_Looking_at_His_Shirt,_Her_Husband_Cobble_Together_a_Cradle/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Italian_Midday/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Italian_Woman_Blowing_a_Kiss/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Japanese_Beggar/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Japanese_Priest/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Japanese_Woman/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Job_and_His_Friends/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Karamzin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Tropinin> .
+
+<http://culturecloud.ru/resource/object/Kireyevsk_EV/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Tropinin> .
+
+<http://culturecloud.ru/resource/object/Kiss_the_Earth/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Kitchen_garden_on_Obvodny_channel/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Kramskoi_Ivan_Mina_Moiseev_Sun/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Krestovsky_Island_Shrouded_in_Mist/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Krishna_Magic_flute/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Lady_Embroidering/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Victor_Borisov-Musatov> .
+
+<http://culturecloud.ru/resource/object/Lady_Taking_off_a_Mask/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Lady_and_Harlequin_(Fireworks_)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Lake_Barns_at_the_forest_edge/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Lake_Como/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Lake_Ladoga/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Lake_Rus/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Lake_Yam-tso/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Landscape/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Landscape_in_the_Evening_Martyshkino/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_Five_Houses/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_Peasant's_Huts_and_Pond_near_St_Petersburg/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_White_House/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_Yellow_House/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_a_Hunter_Valaam_Island/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_a_Rainbow/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_a_River_and_an_Angler/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/Landscape_with_buildings/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Late_Autumn/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Laughter_(Hail,_king_of_Judah)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Laundress/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Lights_on_the_Ganges/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Lilacs/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin>,
+     <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Lions_Bridge/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Lombardy_Poplars_on_the_Bank_of_a_Lake_Evening/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Lunar_night/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Madonna_with_the_Child/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Maikov_Nicholas_Apollonovich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Tropinin> .
+
+<http://culturecloud.ru/resource/object/Malta_Valetto_Harbour/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Marpha_and_Van'ka/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Mast_Tree_Grove/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Matador_Manuel_Gartha/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Meadow_on_the_Edge_of_a_Forest/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Meeting_of_the_Brig_Mercury_with_the_Russian_Squadron_After_the_Defeat_of_Two_Turkish_Battleships/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Merchant's_Woman_with_a_Mirror/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Mikula_Selyaninovich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Mill_in_the_mountains/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Mist_Autumn/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Mixed_Forest_Shmetsk_Near_Narva/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Monastery_Gates/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/Monument_to_Peter_the_Great/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Moon_Night/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Moonlight_Night_on_the_Dnieper/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Moonlight_in_a_Forest_Winter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Moonlit_Night_A_Village/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Morning/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev>,
+     <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin>,
+     <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Morning_Still_Life/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Morning_in_a_Village/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Morning_of_the_Landlady/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Mother/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Mountain_Village_Gunib_in_Daghestan_View_from_the_East/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Mountains_of_the_Crimea_in_Autumn/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Mstislav's_duel_with_Rededia/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Murmansk_The_polar_night/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Nadezhda_Zabela-Vrubel_as_Princess_Volkhova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Naked_boy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> .
+
+<http://culturecloud.ru/resource/object/Naples/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Naryshkina Elena/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Natalia_Borshchova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Near_a_Church_Valaam/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Near_a_Watering_Place/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Negress/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Noon/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Novgorod_Detinets/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Novgorod_Returning_from_the_fair/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Novgorod_cemetery_(Northern_Rus)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Novgorodians/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Nun's_Dream/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Oaks/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi>,
+     <http://dbpedia.org/resource/Alexei_Savrasov>,
+     <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Oaks_on_the_shore/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/Old_Gates_Normandy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Polenov> .
+
+<http://culturecloud.ru/resource/object/Old_Woman_with_a_Hen_(Portrait_of_the_Artist`s_Wife)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Tropinin> .
+
+<http://culturecloud.ru/resource/object/Old_king/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Ominous/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Omnibus_in_Vilno/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/On_Vacation/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/On_Valaam_Rocks/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/On_a_Sea_Shore/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/On_a_Turf_Bench/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/On_the_Boulevard/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/On_the_Bridge/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/On_the_River_Calm/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/On_the_River_Windy_Day/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/On_the_Shore_of_the_Gulf_of_Finland_Udrias_Near_Narva/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/On_the_cemetery/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Ostankino/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Outraged_Jewish_boy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Overgrown_pond/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/ParisNotre-Dame/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Partisans/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Paul_I/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Peasant's_Courtyard/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Peasant/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Peasant_Boy_Putting_on_Bast_Sandals/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Peasant_Children_in_the_Field/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Peasant_Woman/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Peasant_Woman_in_a_Cart/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Peasant_Woman_with_Buckets/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Peasant_in_the_Fields/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Peasants/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/People/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Peter_II_and_Princess_Elizabeth_Petrovna_Riding_to_Hounds/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Peter_I_drags_ships_from_the_Onega_Bay_in_Lake_Onega_in_1702/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Peter_and_Paul_Fortress/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Petersburg/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Petersburg_The_Obvodny_Canal/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Pheb_in_His_Chariot/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Phryne_at_the_Poseidonia_in_Eleusis_(detail)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Henryk_Siemiradzki> .
+
+<http://culturecloud.ru/resource/object/Phryne_on_the_Poseidon's_celebration_in_Eleusis/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Henryk_Siemiradzki> .
+
+<http://culturecloud.ru/resource/object/Phryne_on_the_Poseidon's_celebration_in_Eleusis_(detail)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Henryk_Siemiradzki> .
+
+<http://culturecloud.ru/resource/object/Pier_in_Arkhangelsk/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Pier_in_Gurzuf/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Pine_forest/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Poppies_in_the_Garden/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Victor_Borisov-Musatov> .
+
+<http://culturecloud.ru/resource/object/Portarait_of_philosopher_Vladimir_Solovyov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_A_Sapozhnikov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Tropinin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_Dmitriyev-Mamonov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_G_and_A_A_Lobanov_Rostovsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_I_Tropinina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Tropinin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_P_Levshina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_Somov,_the_Artist's_Father/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_A_Tamilov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Adelaida_Simonovich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Aleksandr_Zhirkevich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Aleksey_Ivanovich_Korsakov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexander_Bruloff/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexander_Kokorinov,_Director_and_First_Rector_of_the_Academy_of_Arts_in_St_Petersburg/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexander_Lanskoy,_Aide-de-camp_to_the_Empress/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexander_Turchaninov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexei_Nikolaevich_Olenin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Alexei_Suvorin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Anna_Akhmatova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Anna_Benois/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Anna_Furman/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Anna_Ostroumova-Lebedeva/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Art_Critic_Pavel_Kovalevsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Artist's_Daughters_Alexandra_and_Felisata/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Artist_s_Daughter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Artist_s_Wife_NA_Malevich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Baroness_Alexandra_Nolde/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Captain_A_M_Kostinich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Catherine_II_as_Legislator_in_the_Temple_of_the_Goddess_of_Justice/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Chaliapin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Colonel_Evgraf_V_Davydov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Count_A_A_Perovsky_(the_Writer_Anton_Pogorelsky)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Count_Feliks_Feliksovich_Sumarokov-Yelstov_later_Prince_Yusupov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Count_Nikolay_Sumarokov-Elstone/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Count_Sergei_Grigoriyevich_Stroganov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Makovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_A_S_Protasova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Anna_Vorontsova_as_a_Child/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Ekaterina_Vorontsova_as_a_Child/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Maria_Vorontsova_as_a_Child/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_N_F_Vorontsova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Natalia_Golovina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Praskovya_Vorontsova_as_a_Child/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Sophia_Alexandrovna_Golenischev-Kutuzova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Varvara_Musina-Pushkina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Countess_Yu_P_Samoilova_and_Her_Ward_Amacilia_Pacini_Leaving_a_Ball/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_D_P_Troschinsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Dmitry_Levitzky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Dmitry_Stasov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_EKustodieva,_Artist's_Mother/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_E_A_Vorontsova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_E_N_Arsenyeva/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_E_N_Khruschova_and_Princess_E_N_Khovanskaya/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_E_P_Protasyeva/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Tropinin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Efim_Repin,_the_Artist's_Father/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ekaterina_Avdulina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ekaterina_Kornilova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ekaterina_Nelidova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Elizabeth_Olenina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Elizaveta_Kruglikova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Elizaveta_Tal/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_F_A_Borovsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Fedor_Orlov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Feodor_Petrushevsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Fyodor_Chaliapin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_G_I_Alymova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Grand_Duchess_Elena_Pavlovna_and_Her_Daughter_Maria/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Grand_Duchess_Olga_Alexandrovna/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Greate_russian_empress_Catherine_II/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Gurko/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_IB_Kustodieva/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_I_Lazarev/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ida_Lvovna_Rubinstein/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ivan_Alexeevich_Gagarin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ivan_Kliun/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ivan_Pavlov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ivan_Stepanovich_Panov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ivan_Yershov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_K_A_and_M_Ya_Narishkin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_K_I_Golovachevsky_and_the_Younger_Pupils_of_the_Academy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_K_Pobedonostsev/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Kolya_(Nikolay)_Simonovich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Kusov_Aleksey_Ivanovich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Lialia_(Adelaida)_Simonovich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_M_A_Kikina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Man/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Mara_Oliv/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Maria_Artsybasheva/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Maria_Botkina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Maxim_Gorky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Minister_of_Ways_of_Communication_and_member_of_State_Council,_Prince_Mikhail_Ivanovich_Khilkov_Study/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_N_Kochubey/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_N_Y_Levitzkaya,_Artist's_Wife/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_N_Zabela-Vrubel_on_the_Edge_of_a_Birch_Grove/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_N_Zabela/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nadezhda_Komarovskaya/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nadezhda_Stasova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nicholas_II,_The_Last_Russian_Emperor/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nicholas_II_The_Last_Russian_Emperor/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nikolai_Kridener,_the_Artist_s_Brother/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Perov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nikolay_Lvov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Nikolay_Rerich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Olga_Nesterova_(Woman_in_a_Riding_Habit)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_P_Denike_(Yuriev)and_A_Pokrovsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_P_Semenov-Tien-Shansky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Polixena_Stasova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Portrait_of_K_I_Albrekht/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Praskovia_Repnina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Prince_A_B_Kurakin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Prince_Felix_Yussupov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Princess_Olga_Orlova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Princess_Ye_P_Saltykova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Princess_Z_A_Volkonskaya/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Princess_Zinaida_Yusupova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Princess NI Kurakin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Rene_Ivanovna_Notgaft/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_S_A_Bobrinsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_S_A_Sobolevsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_S_Mamontov_in_a_Theatre_Costume/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sergei_Chokolov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sergei_Diaghilev/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sidor_Shavrov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Singer_A_Ya_Petrova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sofia_Mikhailovna_Botkina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sonya_Kramskaya,_the_Artist`s_Daughter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Sophia_Dragomirova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Theodora_Saltykova,_the_Painter`s_Mother_in_Law/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_U_M_Smirnova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_V_A_Kornilov_on_Board_the_Brig_Themistocles/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_V_I_Mitrofanov_and_M_A_Mitrofanova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_V_V_Samoilov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Valentina_Usoltseva,_wife_of_the_Doctor_Usoltsev/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Vasily_Alekseevich_Perovsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Vera_Repina,_the_Artist's_Wife/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Vera_Repinahe,_the_Artist's_Daughter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Vera_Shevtsova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Victor_Goshkevich,_the_Founder_of_the_Historic_Aarchaeological_Museum_in_Kherson/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Viktor_Vasnetsov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Vladimir_Bekhterev/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Woman_in_Yellow_Hat/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Yakov_Golubev,_Vice_Director_of_the_Tax_Department/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ye_A_Arkharova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Ye_I_Ton/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Yelena_Likhachova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nikolai_Ge> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Yelena_Oliv/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_Yulia_Yevstafievna_Kustodieva,_the_artist's_wife/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of__Vice_Minister_of_the_Interior,_cavalry_general_and_member_of_State_Council,_Count_Aleksey_Pavlovich_Ignatiev_(Study)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Boy_in_a_Coloured_Shirt/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Mashkov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Girl_(Study_for_Youth_of_St_Sergiy_Radonezhsky)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Hero_of_the_Soviet_Union,_Pilot_A_B_Yumashev/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Man/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Woman/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_a_Youth/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_an_Art_Historian_and_Restorer_Alexander_Anisimov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_an_Officer/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_an_Unknown_Lady_in_a_Pink_Dress/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_an_Unknown_Man/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi>,
+     <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_composer_and_chemist_Aleksander_Porfirievich_Borodin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_countess_Sophia_Vladimirovna_Panina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_music_editor_and_patron_Mitrofan_Petrovich_Belyayev/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_princesses_Davydova_and_Rzhevskaya/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Dmitry_Levitzky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Architect_K_A_Ton/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Architect_and_Painter_Alexander_Brulloff/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Art_Critic_Vladimir_Stasov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist's_Daughter,_Vera/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Alexander_Sokolov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Arkhip_Kuindzhi/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Dmitry_Levitzky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Borovikovsky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Georgi_Vereisky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Igor_Grabar/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Mikhail_Dyakonov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Prince_G_G_Gagarin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Sylvester_Shchedrin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Artist_Vasily_Perov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Author_Ivan_Turgenev/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Perov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Author_Mikhail_Saltykov-Shchedrin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nikolai_Ge> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Chello_Player_Alexander_Verzhbilovich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Composer_Alexander_Glazunov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin>,
+     <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Composer_Alexander_Serov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Composer_Nikolay_Rymsky-Korsakov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Lawyer_Vladimir_Spasovitch/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Narratorb_of_the_Folk_Tales_V_Tschegolionkov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Painter_Ivan_Bilibin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Photographer_Andrey_Denier/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Poet_Nikolay_Nekrasov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nikolai_Ge> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Poet_and_Playwright_Alexey_Tolstoy_as_a_Youth/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Prince_P_Scherbatov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Princess_A_Scherbatova/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Sculptor_Bertel_Thorvaldsen/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Sculptor_Mark_Antokolsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Shishmariov_Sisters/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Singer_Alexandra_Molas/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_State_Chancellor_of_the_Internal_Affairs,_Prince_Victor_Pavlovich_Kochubey_in_his_Study/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_Surgeon_Nikolay_Pirogov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_artist's_father,_Adam_Karlovich_Schwalbe/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_astronomer_Otto_Struve_Vasilyevich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_author_Ieronim_Yasinsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_composer_Sergei_Rachmaninov/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the_sculptor_EPTarhanova-Antokolskaya/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_the Artist Tatiana Spiridonovna Lyubatovich/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Portrait_of_woman_with_yellow_background/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Prayer/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Praying_Woman/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Preparation_for_the_Examination/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Prince_Alexander_Nevsky/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Prince_Alexander_Nevsky_in_Gold_Horde/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Henryk_Siemiradzki> .
+
+<http://culturecloud.ru/resource/object/Procopius_the_Righteous_is_praying_of_unknown_navigating/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Promenade_after_Rain_1/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Promenading_in_the_Forest/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Pushkin_at_the_top_of_the_Ai-Petri_Mountain_at_sunrise/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Rainbow/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi>,
+     <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/Raising_of_Jairus_Daughter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Rapid_Stream/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Reaper/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich>,
+     <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Reapers/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich>,
+     <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Red_Figure/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Red_House/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Red_sunset/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Rest_Society_in_Top_Hats/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Rest_after_a_Walk/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Retired_Butler/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/River_in_Forest/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Roman_Orgy_in_the_Time_of_Caesars/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Henryk_Siemiradzki> .
+
+<http://culturecloud.ru/resource/object/Rooftops/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Roses_in_Ladakh/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Rostov_the_Great/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Ruins_in_Chuguchak/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Ruins_in_Park/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Russian_Troops_under_Suvorov_Crossing_the_Alps/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Russian_Venus/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Russian_squadron_on_the_raid_of_Sevastopol/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Sadko/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin>,
+     <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Saint_Isaac`s_cathedral_under_the_snow/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Salome_brings_head_of_Saint_John_the_Baptist_to_her_mother_Herodias/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Samarkand/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/San_Gimignano/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Satyr_and_Bacchante_(Bacchanalia)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Sea_view_by_Moonlight/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Seashore/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Seashore_in_Crimea/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Second_Ecumenical_Council_of_Constantinople/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Self-Portrait/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov>,
+     <http://dbpedia.org/resource/Kazimir_Malevich>,
+     <http://dbpedia.org/resource/Valentin_Serov>,
+     <http://dbpedia.org/resource/Konstantin_Somov>,
+     <http://dbpedia.org/resource/Fyodor_Vasilyev>,
+     <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Self-Portrait_(Man_with_hurt_hand)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Self-Portrait_with_Brushes_and_a_Palette_Against_a_Window_Facing_the_Kremlin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Tropinin> .
+
+<http://culturecloud.ru/resource/object/Self-portrait/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky>,
+     <http://dbpedia.org/resource/Konstantin_Korovin>,
+     <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Self-portrait_with_Baroness_Ye_N_Meller-Zakomelskaya_and_a_Girl_in_a_Boat/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Self_Portrait/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev>,
+     <http://dbpedia.org/resource/Kazimir_Malevich>,
+     <http://dbpedia.org/resource/Valentin_Serov>,
+     <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Self_Portrait_with_Sister/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Victor_Borisov-Musatov> .
+
+<http://culturecloud.ru/resource/object/Self_portrait/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Send_off_of_recruit/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Seraphim/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Viktor_Vasnetsov> .
+
+<http://culturecloud.ru/resource/object/Set_design_for_the_Opera/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Seven_Boys_in_Colourful_Clothes/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> .
+
+<http://culturecloud.ru/resource/object/Shah-i-Zinda/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Sheaves_and_a_Village_Beyond_the_River/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Shelling_of_beet/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Siberian_woman/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Siena/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Silen,_Satyr_and_Bacchanals/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Silence/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky>,
+     <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Singer/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Sinto_Temple_in_Nikko/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/Skating_Rink_in_Winter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Sketch_for_fresco/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Sketch_for_the_design_of_a_curtain_for_the_ballet_'Scheherazade'/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Valentin_Serov> .
+
+<http://culturecloud.ru/resource/object/Sleeping_Herd-Boy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Snowbound_garden/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Soldier/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Solitary_Guitarist/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Perov> .
+
+<http://culturecloud.ru/resource/object/Sorrento_Grave_of_Sylvester_Shchedrin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Speakers_on_Tribune/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Spring/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin>,
+     <http://dbpedia.org/resource/Kazimir_Malevich>,
+     <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Spring_Garden_in_Blossom/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Spring_Landscape_with_a_Cottage/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Spring_Sun/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Victor_Borisov-Musatov> .
+
+<http://culturecloud.ru/resource/object/Springtime_The_Last_Snow/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/St_George_and_Dragon/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/St_Nicholas_Saves_Three_Innocents_from_Death/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Stepan_Razin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Still_Life/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Apples_in_a_sieve/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Still_Life_It's_time_for_tea/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Lilacs_in_two_baskets/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Samovar/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Table,_books,_and_the_pipes/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Table_with_fruits_and_yellow_flowers/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Tray_and_vegetables/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Still_Life_White_partridge/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Still_Life_Wildflowers/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Still_Life_with_Brocade/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Mashkov> .
+
+<http://culturecloud.ru/resource/object/Still_Life_with_Loaves_of_Bread/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Mashkov> .
+
+<http://culturecloud.ru/resource/object/Still_Life_with_a_Coffeepot/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/Storm/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Storm_on_the_Volga/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Street_in_London/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Strike/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Summer_Garden_in_winter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Summer_Landscape/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Summer_Morning/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/Sundown_over_a_marsh/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/Sunset/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Sunset_Effect/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Sunset_in_the_winter_A_coast_of_the_sea/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Suprematism/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Sveaborg/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Swamp_in_a_Forest_Mist/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Sweet_Waters_Near_Constantinople/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/Swirling_glow/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Taking_a_snowy_town/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Tempest_by_cape_Aiya/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Thaw Yaroslavl/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/The_Appearance_of_Christ_to_Mary_Magdalene/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> .
+
+<http://culturecloud.ru/resource/object/The_Athlete_of_the_Future/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/The_Coast_at_Amalfi/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/The_Collapse_of_a_Bank_(study)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Makovsky> .
+
+<http://culturecloud.ru/resource/object/The_Concert_in_the_Assembly_of_Nobility/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/The_Condemned/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Makovsky> .
+
+<http://culturecloud.ru/resource/object/The_Crimea_The_Southern_Shore/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/The_Doctor's_Waiting_Room/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Makovsky> .
+
+<http://culturecloud.ru/resource/object/The_Doss_House/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vladimir_Makovsky> .
+
+<http://culturecloud.ru/resource/object/The_English_Embankment_at_snow/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/The_Flying_Demon/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/The_Great_Roads_at_Kronstadt/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/The_Gully/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/The_Khorovod/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/The_Lake_Barns_at_the_edge_of_forest/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/The_Lake_Eventide/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/The_Last_Day_of_Pompeii/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Karl_Bryullov> .
+
+<http://culturecloud.ru/resource/object/The_Laughed_Kiss/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Somov> .
+
+<http://culturecloud.ru/resource/object/The_Merchant's_Wife/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/The_Merchant's_Wife_at_Tea/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/The_Miller/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Kramskoi> .
+
+<http://culturecloud.ru/resource/object/The_Model_in_a_chair/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Pyotr_Konchalovsky> .
+
+<http://culturecloud.ru/resource/object/The_Mordvinovo_Oaks/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/The_Mount_Kazbek/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/The_Northern_Dvina/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/The_Path_through_the_Woods,_1880_(oil_on_canvas)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/The_Philosophers:_Portrait_of_Sergei_Bulgakov_and_Pavel_Florenskiy/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/The_Provinces_in_the_1830s/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/The_Reply_of_the_Zaporozhian_Cossacks_to_Sultan_Mahmoud_IV/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/The_Roads_at_Kronstadt/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/The_Sale_of_the_Child_Slave/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
+
+<http://culturecloud.ru/resource/object/The_Sea_The_Crimea/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/The_Sea_with_a_Sailing_Ship/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/The_Shore_Cloudy_Day/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/The_Six_Winged_Seraph/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/The_Swineherd/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/The_Taking_of_the_Veil/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/The_Teutoburg_Forest/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/The_Transportation_of_Marble_at_Carrara/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nikolai_Ge> .
+
+<http://culturecloud.ru/resource/object/The_Twilight_Moon/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/The_Vision_of_the_Prophet_Ezekiel/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/The_district_court/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/The_girl_at_the_window/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/The_girl_on_the_beach/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/The_handing_over_of_the_Sacred_Carpet_in_Cairo/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Makovsky> .
+
+<http://culturecloud.ru/resource/object/The_old_gardener/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/The_road_in_the_woods/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/The_saviour_over_the_door/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/The_ships_on_rough_sea,_sunrise/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/The_tower_of_Genoa/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Thinker_(Portrait_of_philisopher_Ivan_Ilyin)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Third_Ecumenical_Council_of_Ephesus/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Thirty-three_knights/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Vrubel> .
+
+<http://culturecloud.ru/resource/object/Thought/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Three_Ladies_on_the_Terrace/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Victor_Borisov-Musatov> .
+
+<http://culturecloud.ru/resource/object/Three_Woman_Figures/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Three_nude_boys/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> .
+
+<http://culturecloud.ru/resource/object/Three_pleasures/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Threshing-Floor/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexey_Venetsianov> .
+
+<http://culturecloud.ru/resource/object/Tide/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/To_Blagovest/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mikhail_Nesterov> .
+
+<http://culturecloud.ru/resource/object/Torso/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Tower_of_terror/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Trees_and_bushes/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Triumph_of_the_Skies/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Tropical_landscape/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Bogaevsky> .
+
+<http://culturecloud.ru/resource/object/Tsar_Alexei_Michaylovich_choosing_a_bride/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Makovsky> .
+
+<http://culturecloud.ru/resource/object/Tsar_Nicholas_II/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Boris_Kustodiev> .
+
+<http://culturecloud.ru/resource/object/Tsarevna_Sophia_Alexeevna_in_the_Novodevitchy_Convent/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Turkish_Soldier/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Two_Figures/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Two_Ladies/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Victor_Borisov-Musatov> .
+
+<http://culturecloud.ru/resource/object/Two_Male_Figures/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Two_Women_in_a_Garden/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Two_woman/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Type_in_the_Swiss_Alps_(Mount_Small_Ruhen)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/Ukrainian_landscape/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Unemployed_Girl/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Urban_Landscape/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Mashkov> .
+
+<http://culturecloud.ru/resource/object/Valley_of_the_River_Autumn/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Isaac_Levitan> .
+
+<http://culturecloud.ru/resource/object/Via_Appia_at_Sunset/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexander_Andreyevich_Ivanov> .
+
+<http://culturecloud.ru/resource/object/Viaduct_in_London/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/View_in_the_Vicinity_of_St_Petersburg/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/View_near_Dusseldorf/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/View_of_Constantinople_by_Moonlight/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/View_of_Krasnoyarsk_from_knoll/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/View_of_Moscow_from_Sparrow_Hills/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/View_of_Valaam_Island_Kukko/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/View_of_the_Kremlin_from_the_Zamoskvorechye_District/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/View_of_the_Moskvoretsky_Bridge,_the_Kremlin_and_the_Pokrovsky_Cathedral/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/View_of_the_Sea_from_the_Mountains_at_Sunset_Crimea/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/View_on_rocky_coast/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Village/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/Violin/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kuzma_Petrov-Vodkin> .
+
+<http://culturecloud.ru/resource/object/Vitebsk/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Vitebsk_Circus/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Vitebsk_The_staircase/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Waiting/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Nicholas_Roerich> .
+
+<http://culturecloud.ru/resource/object/Walk_at_Sunset/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Victor_Borisov-Musatov> .
+
+<http://culturecloud.ru/resource/object/Wasteland_on_Vasilievsky_Island/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Water_Mill_on_a_Mountain_River_Crimea/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Fyodor_Vasilyev> .
+
+<http://culturecloud.ru/resource/object/What_People_Think_about_Me/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Polenov> .
+
+<http://culturecloud.ru/resource/object/What_a_Freedom/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/White_night_in_Northern_Norway/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Konstantin_Korovin> .
+
+<http://culturecloud.ru/resource/object/Willows_Lit_Up_by_the_Sun/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Windmill_on_the_Sea_Coast/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Aivazovsky> .
+
+<http://culturecloud.ru/resource/object/Winte/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ivan_Shishkin> .
+
+<http://culturecloud.ru/resource/object/Winter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Alexei_Savrasov> .
+
+<http://culturecloud.ru/resource/object/Winter_Spots_of_Light_on_Cottage_Roof/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Winter_Sunlight_on_The_Hoar_Frost/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Arkhip_Kuindzhi> .
+
+<http://culturecloud.ru/resource/object/Winter_in_the_City/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Mstislav_Dobuzhinsky> .
+
+<http://culturecloud.ru/resource/object/Woman_(study)/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Ilya_Repin> .
+
+<http://culturecloud.ru/resource/object/Woman_at_the_window/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Tropinin> .
+
+<http://culturecloud.ru/resource/object/Woman_s_Head_in_Profile/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Woodcutter/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Kazimir_Malevich> .
+
+<http://culturecloud.ru/resource/object/Yermak's_conquest_of_Siberia/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Surikov> .
+
+<http://culturecloud.ru/resource/object/Young_Gardener/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Orest_Kiprensky> .
+
+<http://culturecloud.ru/resource/object/Zyrian/production> ecrm:P14_carried_out_by <http://dbpedia.org/resource/Vasily_Vereshchagin> .
